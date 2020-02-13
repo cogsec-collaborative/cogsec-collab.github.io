@@ -1,17 +1,13 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "AM!TT Framework"
-summary: "AM!TT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents. AMITT is part of misinfosec - work on adapting information security practices to help track and counter misinformation - and is designed as far as possible to fit existing infosec practices and tools."
-authors: []
-tags: 
-- AMITT
+title: AM!TT Navigator
+summary: Based on the MITRE ATT&CK&copy; Navigator.
+tags:
 - Disinformation
-categories: []
-date: 2020-02-11T13:56:48-05:00
+- AMITT
+date: "2020-02-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/misinfosecproject/amitt_framework"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -23,11 +19,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   url: https://twitter.com
+   icon_pack: fab
+   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -39,5 +35,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 ---
+<iframe src="https://vvx7.github.io/amitt-navigator/amitt/" width="100%" height="1000px"></iframe> 
