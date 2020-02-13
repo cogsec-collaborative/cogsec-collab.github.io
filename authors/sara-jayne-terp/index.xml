@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sara-Jayne Terp | CogSec Collaborative</title>
-    <link>https://cogsec-collab.github.io/authors/sara-jayne-terp/</link>
-      <atom:link href="https://cogsec-collab.github.io/authors/sara-jayne-terp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collaborative.org/authors/sara-jayne-terp/</link>
+      <atom:link href="https://cogsec-collaborative.org/authors/sara-jayne-terp/index.xml" rel="self" type="application/rss+xml" />
     <description>Sara-Jayne Terp</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sara-Jayne Terp</title>
-      <link>https://cogsec-collab.github.io/authors/sara-jayne-terp/</link>
+      <link>https://cogsec-collaborative.org/authors/sara-jayne-terp/</link>
     </image>
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.github.io/talk/2020_cansecwest/</link>
+      <link>https://cogsec-collaborative.org/talk/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.github.io/talk/2020_cansecwest/</guid>
+      <guid>https://cogsec-collaborative.org/talk/2020_cansecwest/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

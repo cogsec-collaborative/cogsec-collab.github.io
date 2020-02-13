@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | CogSec Collaborative</title>
-    <link>https://cogsec-collab.github.io/publication_types/3/</link>
-      <atom:link href="https://cogsec-collab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collaborative.org/publication_types/3/</link>
+      <atom:link href="https://cogsec-collaborative.org/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
-      <link>https://cogsec-collab.github.io/publication_types/3/</link>
+      <link>https://cogsec-collaborative.org/publication_types/3/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://cogsec-collab.github.io/publication/preprint/</link>
+      <link>https://cogsec-collaborative.org/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.github.io/publication/preprint/</guid>
+      <guid>https://cogsec-collaborative.org/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
