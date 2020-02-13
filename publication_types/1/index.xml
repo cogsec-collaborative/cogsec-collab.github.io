@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | CogSec Collaborative</title>
-    <link>https://cogsec-collaborative.org/publication_types/1/</link>
-      <atom:link href="https://cogsec-collaborative.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/publication_types/1/</link>
+      <atom:link href="https://cogsec-collab.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
-      <link>https://cogsec-collaborative.org/publication_types/1/</link>
+      <link>https://cogsec-collab.org/publication_types/1/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://cogsec-collaborative.org/publication/conference-paper/</link>
+      <link>https://cogsec-collab.org/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/publication/conference-paper/</guid>
+      <guid>https://cogsec-collab.org/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

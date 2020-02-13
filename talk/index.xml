@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | CogSec Collaborative</title>
-    <link>https://cogsec-collaborative.org/talk/</link>
-      <atom:link href="https://cogsec-collaborative.org/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/talk/</link>
+      <atom:link href="https://cogsec-collab.org/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://cogsec-collaborative.org/talk/</link>
+      <link>https://cogsec-collab.org/talk/</link>
     </image>
     
     <item>
       <title>AM!TT - Adversarial Misinformation Response Playbooks</title>
-      <link>https://cogsec-collaborative.org/talk/2020_atlseccon/</link>
+      <link>https://cogsec-collab.org/talk/2020_atlseccon/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/talk/2020_atlseccon/</guid>
+      <guid>https://cogsec-collab.org/talk/2020_atlseccon/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,9 +36,9 @@
     
     <item>
       <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://cogsec-collaborative.org/talk/2020_bsides_vancouver/</link>
+      <link>https://cogsec-collab.org/talk/2020_bsides_vancouver/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/talk/2020_bsides_vancouver/</guid>
+      <guid>https://cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -58,9 +58,9 @@
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collaborative.org/talk/2020_cansecwest/</link>
+      <link>https://cogsec-collab.org/talk/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/talk/2020_cansecwest/</guid>
+      <guid>https://cogsec-collab.org/talk/2020_cansecwest/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -80,9 +80,9 @@
     
     <item>
       <title>Landing Page</title>
-      <link>https://cogsec-collaborative.org/talks/</link>
+      <link>https://cogsec-collab.org/talks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/talks/</guid>
+      <guid>https://cogsec-collab.org/talks/</guid>
       <description></description>
     </item>
     

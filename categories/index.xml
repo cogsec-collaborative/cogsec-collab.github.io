@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | CogSec Collaborative</title>
-    <link>https://cogsec-collaborative.org/categories/</link>
-      <atom:link href="https://cogsec-collaborative.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/categories/</link>
+      <atom:link href="https://cogsec-collab.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
-      <link>https://cogsec-collaborative.org/categories/</link>
+      <link>https://cogsec-collab.org/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://cogsec-collaborative.org/categories/demo/</link>
+      <link>https://cogsec-collab.org/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collaborative.org/categories/demo/</guid>
+      <guid>https://cogsec-collab.org/categories/demo/</guid>
       <description></description>
     </item>
     

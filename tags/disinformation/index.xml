@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disinformation | CogSec Collaborative</title>
-    <link>https://cogsec-collaborative.org/tags/disinformation/</link>
-      <atom:link href="https://cogsec-collaborative.org/tags/disinformation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/tags/disinformation/</link>
+      <atom:link href="https://cogsec-collab.org/tags/disinformation/index.xml" rel="self" type="application/rss+xml" />
     <description>Disinformation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Wed, 12 Feb 2020 13:56:48 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Disinformation</title>
-      <link>https://cogsec-collaborative.org/tags/disinformation/</link>
+      <link>https://cogsec-collab.org/tags/disinformation/</link>
     </image>
     
     <item>
       <title>AM!TT Counters</title>
-      <link>https://cogsec-collaborative.org/project/amitt_counters/</link>
+      <link>https://cogsec-collab.org/project/amitt_counters/</link>
       <pubDate>Wed, 12 Feb 2020 13:56:48 -0500</pubDate>
-      <guid>https://cogsec-collaborative.org/project/amitt_counters/</guid>
+      <guid>https://cogsec-collab.org/project/amitt_counters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AM!TT Framework</title>
-      <link>https://cogsec-collaborative.org/project/amitt_framework/</link>
+      <link>https://cogsec-collab.org/project/amitt_framework/</link>
       <pubDate>Wed, 12 Feb 2020 13:56:48 -0500</pubDate>
-      <guid>https://cogsec-collaborative.org/project/amitt_framework/</guid>
+      <guid>https://cogsec-collab.org/project/amitt_framework/</guid>
       <description></description>
     </item>
     

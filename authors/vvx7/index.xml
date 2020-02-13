@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CogSec Collaborative</title>
-    <link>https://cogsec-collaborative.org/authors/vvx7/</link>
-      <atom:link href="https://cogsec-collaborative.org/authors/vvx7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/authors/vvx7/</link>
+      <atom:link href="https://cogsec-collab.org/authors/vvx7/index.xml" rel="self" type="application/rss+xml" />
     <description>CogSec Collaborative</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CogSec Collaborative</title>
-      <link>https://cogsec-collaborative.org/authors/vvx7/</link>
+      <link>https://cogsec-collab.org/authors/vvx7/</link>
     </image>
     
   </channel>
