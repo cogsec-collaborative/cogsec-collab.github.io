@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/project/amitt_framework/</loc>
-    <lastmod>2020-02-12T13:56:48-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cogsec-collab.org/tags/disinformation/</loc>
     <lastmod>2020-02-12T13:56:48-05:00</lastmod>
   </url>
@@ -85,6 +80,16 @@
   <url>
     <loc>https://cogsec-collab.org/project/</loc>
     <lastmod>2020-02-12T13:56:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/project/amitt_navigator/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/project/amitt_framework/</loc>
+    <lastmod>2020-02-11T13:56:48-05:00</lastmod>
   </url>
   
   <url>
