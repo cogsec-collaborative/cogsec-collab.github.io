@@ -5,12 +5,21 @@
     <link>https://cogsec-collab.org/authors/vvx7/</link>
       <atom:link href="https://cogsec-collab.org/authors/vvx7/index.xml" rel="self" type="application/rss+xml" />
     <description>CogSec Collaborative</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CogSec Collaborative</title>
       <link>https://cogsec-collab.org/authors/vvx7/</link>
     </image>
+    
+    <item>
+      <title>AM!TT Navigator</title>
+      <link>https://cogsec-collab.org/project/amitt_navigator/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/project/amitt_navigator/</guid>
+      <description>&lt;iframe src=&#34;https://vvx7.github.io/amitt-navigator/amitt/&#34; width=&#34;100%&#34; height=&#34;1000px&#34;&gt;&lt;/iframe&gt; 
+</description>
+    </item>
     
   </channel>
 </rss>
