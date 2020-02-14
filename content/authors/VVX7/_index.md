@@ -10,32 +10,22 @@ authors:
 superuser: false
 
 # Role/position
-role: my role here
+role: R&D
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: VVX7
+  url: "https://VVX7.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Feeling cute might influence later idk
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adversary Emulation
+- Purple Team
+- Threat Intelligence
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:info@VVX7.io".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/VV_X_7
@@ -53,7 +43,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/cogsec-collaborative
+  link: https://github.com/VVX7
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +57,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I do infosec things and sometimes I do misinfosec things too.
