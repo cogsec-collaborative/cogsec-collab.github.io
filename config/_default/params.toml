@@ -45,7 +45,7 @@ local_business_type = ""
 org_name = "CogSec Collaborative"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The Cognitive Security Collaborative brings together information security researchers, data scientists, and other subject-matter experts in order to create and improve resources for the protection and defense of the cognitive domain."
 
 ############################
 ## Site Features
@@ -108,9 +108,9 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Keybase", link = "https://keybase.io/"}
+  {icon = "keybase", icon_pack = "fab", name = "Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-#   {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@Telegram"}
+   {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/cogsec-collaborative"}
   ]
 
 ############################
@@ -148,7 +148,7 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
