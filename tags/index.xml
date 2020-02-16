@@ -5,7 +5,7 @@
     <link>https://cogsec-collab.org/tags/</link>
       <atom:link href="https://cogsec-collab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© CogSec Collaborative</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
@@ -33,14 +33,6 @@
       <link>https://cogsec-collab.org/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://cogsec-collab.org/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/academic/</guid>
       <description></description>
     </item>
     
