@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: Follow
-   url: https://twitter.com
-   icon_pack: fab
-   icon: twitter
+#links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -37,6 +37,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 <iframe src="https://vvx7.github.io/amitt-navigator/amitt/" width="100%" height="1000px"></iframe> 

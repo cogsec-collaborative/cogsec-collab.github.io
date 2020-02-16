@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Roger Johnston
+weight: 25
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: R&D
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -32,12 +33,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:info@VVX7.io".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:info@VVX7.io".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/VV_X_7
+- icon: dice-d20
+  icon_pack: fas
+  link: https://VVX7.io
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

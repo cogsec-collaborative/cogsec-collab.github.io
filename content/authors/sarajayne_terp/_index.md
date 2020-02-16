@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Sara-Jayne Terp
+weight: 5
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +11,15 @@ authors:
 superuser: false
 
 # Role/position
-role: my role here
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bodacea Light Industries LLC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data nerd, specializing in complex business and social problems.
 
 interests:
 - Artificial Intelligence
@@ -27,27 +28,30 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Artificial Creativity
+    institution: University of York
+    year: 2002
+  - course: MSc Research, Pattern Analysis and Neural Networks
+    institution: Aston University
+    year: 1998
+  - course: MSc, Artificial Intelligence
+    institution: Queen Mary, U. of London
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bodaceacat
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@sarajayneterp
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,7 +71,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mission Statement
+name: Cognitive Security Collaborative
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Site Admin
+#role: Site Admin
 
 # Organizations/Affiliations
 organizations:
-- name: CogSec Collaboration
+- name: Cognitive Security Collaborative
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: This user hosts the mission statement.  Don't remove me!
+bio: The Cognitive Security Collaborative's mission is to bring together information security researchers, data scientists, and other subject-matter experts in order to create and improve resources for the protection and defense of the cognitive domain.
 
 
 # Social/Academic Networking

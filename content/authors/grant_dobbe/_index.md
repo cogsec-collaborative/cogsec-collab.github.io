@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Grant Dobbe
+weight: 15
 
 # Username (this should match the folder name)
 authors:
@@ -61,7 +62,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 I'm just this guy, you know?
