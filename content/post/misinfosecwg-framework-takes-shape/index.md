@@ -17,6 +17,7 @@ image:
 
 ## Developing the AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework
 
+By [John Gray](https://twitter.com/grayspective) and [Sara-Jayne Terp](https://twitter.com/bodaceacat)
 
 On May 24, 2019, the CredCo MisinfoSec Working Group met for the day at the Carter Center in as part of CredConX Atlanta. The purpose of the day was to draft a working MisinfoSec framework that incorporates the stages and techniques of misinformation, and the responses to it. We came up with a name for our framework: AMITT (Adversarial Misinformation and Influence Tactics and Techniques) provides a framework for understanding and responding to organized misinformation attacks based on existing information security principles.
 
