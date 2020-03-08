@@ -136,16 +136,6 @@
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/slides/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/slides/cansecwest2020/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cogsec-collab.org/publication_types/9/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
@@ -168,6 +158,21 @@
   <url>
     <loc>https://cogsec-collab.org/publication/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/tags/cyber-security/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

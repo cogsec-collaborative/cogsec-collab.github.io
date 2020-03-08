@@ -125,7 +125,7 @@
       <link>https://cogsec-collab.org/post/misinfosecwg-counters/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/post/misinfosecwg-counters/</guid>
-      <description>&lt;h1 id=&#34;the-misinfosec-working-group&#34;&gt;The Misinfosec Working Group&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;the-misinfosec-working-group&#34;&gt;The Misinfosec Working Group&lt;/h2&gt;
 
 
 
@@ -166,7 +166,7 @@
 &lt;p&gt;The Misinfosec Working Group (“misinfosecWG”) is part of the Credibility Coalition. It was formed around a standard for action: we wanted a way for the many groups and individuals that we saw starting to investigate disinformation incidents to quickly share information about them, in the same ways that information security groups share information through information exchanges like ISACs and ISAOs, and disclosure schemes like bug bounties. We also wanted, as the field of disinformation response grew, to build ways for groups and individuals to quickly look up and share information about the mitigations and other activities that worked (or might work) to counter active disinformation campaigns.&lt;/p&gt;
 &lt;p&gt;MisinfosecWG has come a long way since Pablo and I talked in 2018 about creating standards for misinfosec — the application of information security principles and practices to disinformation incident mitigation — and decided that CredCo was the only obvious place to incubate such a standards group. Walker and I started the CredCo misinfosec working group in December 2018, and since its official launch in January 2019, we’ve built a bridge between information security, misinformation and specialists in fields like narrative science (looking at you, John, Walker and Danielle), placed infosec-style response firmly inside disinformation response, and adapted existing infosec standards like ATT&amp;amp;CK and STIX into the AMITT standard for disinformation use, giving us the ability to transmit, share and analyze information about disinformation using existing information security technologies and techniques.&lt;/p&gt;
 &lt;p&gt;And in November 2019, MisinfosecWG ran the second of its workshops; the “Blue Team Workshop” on misinformation countermeasures. The last of these, the “Red Team Workshop”, in Atlanta, modeled the tactics and techniques used by disinformation creators, and produced the AMITT framework of disinformation tactics, techniques and procedures (TTPs). The DC workshop, held in the Atlantic Council’s meeting space, focused on how responders could mitigate and counter those TTPs.&lt;/p&gt;
-&lt;h1 id=&#34;why-run-a-countermeasures-workshop&#34;&gt;Why Run a Countermeasures Workshop?&lt;/h1&gt;
+&lt;h2 id=&#34;why-run-a-countermeasures-workshop&#34;&gt;Why Run a Countermeasures Workshop?&lt;/h2&gt;
 
 
 
@@ -217,7 +217,7 @@
 &lt;/ul&gt;
 &lt;p&gt;And we framed the first solution space by combining the stages that a disinformation incident goes through (its “tactics”) from AMITT with the types of action that could block or mitigate each of them (courses of action categories) to create an empty ‘grid’ on the wall.&lt;/p&gt;
 &lt;p&gt;Our aim in the workshop was to fill this grid with potential responses, then drill down into the details of some of those responses. First, level-setting. With all the different disciplines in the room, we used the AMITT framework and misinfosec pyramid (campaigns/ incidents/ narratives/ artefacts) to frame the work we were doing, including the idea that each object in the STIX graphs we create for each disinformation incident could potentially be paired with a course of action (the green icon, defined in information security as “an action taken to either prevent an attack or respond to an attack”) to mitigate, block or disable it, and that the ATT&amp;amp;CK idea of finding counters for each technique (the blue icons) was a good place to start.&lt;/p&gt;
-&lt;h1 id=&#34;existing-counters&#34;&gt;Existing Counters&lt;/h1&gt;
+&lt;h2 id=&#34;existing-counters&#34;&gt;Existing Counters&lt;/h2&gt;
 &lt;p&gt;We didn’t go empty-handed to the workshop. The MisinfosecWG team had already spent time looking for counters in our set of example incidents (in the AMITT GitHub repository), and looking at existing counter examples and types through a combination of existing knowledge and literature search (e.g. in the DoJ’s framework). Some well-known examples we gave of these are below, but we also encouraged attendees to think laterally about countering the techniques that they saw:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;US Cyber Command blocking internet services to the Internet Research Agency on the day of the 2018 US Midterm elections&lt;/li&gt;
@@ -349,7 +349,7 @@
 &lt;/figure&gt;
 
 &lt;p&gt;We also talked about counters in the context of the SANS scale from architectural through to offensive countermeasures.&lt;/p&gt;
-&lt;h1 id=&#34;brainstorming-a-courses-of-action-wall&#34;&gt;Brainstorming a Courses of Action wall&lt;/h1&gt;
+&lt;h2 id=&#34;brainstorming-a-courses-of-action-wall&#34;&gt;Brainstorming a Courses of Action wall&lt;/h2&gt;
 
 
 
@@ -427,7 +427,7 @@
 &lt;/figure&gt;
 
 &lt;p&gt;A post-it on a wall isn’t a response, so we asked teams to drill further into each set of counters — looking at who could take each action, how it might play out, what its side-effects might be. That produced a lot more detail, and yet more counters, all of which were added to a prototype technique-level playbook.&lt;/p&gt;
-&lt;h1 id=&#34;thinking-about-end-users&#34;&gt;Thinking about End Users&lt;/h1&gt;
+&lt;h2 id=&#34;thinking-about-end-users&#34;&gt;Thinking about End Users&lt;/h2&gt;
 
 
 
@@ -466,7 +466,7 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Disinformation is a whole-system problem, and we took the opportunity to spend some time preparing for the next activity needed — coordinating whole-system response through bodies like the US ISAO system, and more specifically the prototype Cognitive Security ISAO, looking at what they do and how we as a group could support them.&lt;/p&gt;
-&lt;h1 id=&#34;making-counters-useful&#34;&gt;Making Counters Useful&lt;/h1&gt;
+&lt;h2 id=&#34;making-counters-useful&#34;&gt;Making Counters Useful&lt;/h2&gt;
 
 
 
@@ -537,177 +537,274 @@
     </item>
     
     <item>
-      <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.org/slides/cansecwest2020/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/slides/cansecwest2020/</guid>
-      <description>&lt;h2 id=&#34;tools-and-techniques&#34;&gt;Tools and Techniques&lt;/h2&gt;
-&lt;h3 id=&#34;for-cognitive-security&#34;&gt;for Cognitive Security&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://twitter.com/bodaceacat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara-Jayne Terp&lt;/a&gt; | 
-&lt;a href=&#34;https://twitter.com/VV_X_7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roger Johnston&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;cogsec-collaborative&#34;&gt;CogSec Collaborative&lt;/h2&gt;
-&lt;h3 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;researchers&lt;/li&gt;
-&lt;li&gt;journalists&lt;/li&gt;
-&lt;li&gt;technologists&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;cogsec-collaborative-1&#34;&gt;CogSec Collaborative&lt;/h2&gt;
-&lt;h3 id=&#34;what-we-do&#34;&gt;What we do&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop standards for misinfosec&lt;/li&gt;
-&lt;li&gt;Develop tools and capabilities&lt;/li&gt;
-&lt;li&gt;Build communities of Elves&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;cogsec-collaborative-2&#34;&gt;CogSec Collaborative&lt;/h2&gt;
-&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Sara-Jayne Terp&lt;/li&gt;
-&lt;li&gt;Pablo Breuer&lt;/li&gt;
-&lt;li&gt;grugq&lt;/li&gt;
-&lt;li&gt;Grant Dobbe&lt;/li&gt;
-&lt;li&gt;Roger Johnston&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;cogsec-collaborative-3&#34;&gt;CogSec Collaborative&lt;/h2&gt;
-&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
-&lt;p&gt;The Cognitive Security Collaborative’s mission is to bring together information security researchers, data scientists, and other subject-matter experts in order to create and improve resources for the protection and defense of the cognitive domain.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Building Standards for Misinfosec</title>
       <link>https://cogsec-collab.org/publication/standards_for_misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/publication/standards_for_misinfosec/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The MisinfoSec Framework Takes Shape</title>
+      <link>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</guid>
+      <description>&lt;h2 id=&#34;developing-the-amitt-adversarial-misinformation-and-influence-tactics-and-techniques-framework&#34;&gt;Developing the AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework&lt;/h2&gt;
+&lt;p&gt;By 
+&lt;a href=&#34;https://twitter.com/grayspective&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Gray&lt;/a&gt; and 
+&lt;a href=&#34;https://twitter.com/bodaceacat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara-Jayne Terp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On May 24, 2019, the CredCo MisinfoSec Working Group met for the day at the Carter Center in as part of CredConX Atlanta. The purpose of the day was to draft a working MisinfoSec framework that incorporates the stages and techniques of misinformation, and the responses to it. We came up with a name for our framework: AMITT (Adversarial Misinformation and Influence Tactics and Techniques) provides a framework for understanding and responding to organized misinformation attacks based on existing information security principles.&lt;/p&gt;
+&lt;p&gt;We’d like to provide a recap of what the working group came up with the day, as well as explain and discuss some of the key concepts we used to inform our work. It should be noted that the working group relied on 
+&lt;a href=&#34;https://misinfocon.com/misinformation-has-stages-7e00bd917108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our previous work on the stages of misinformation&lt;/a&gt;, documented in a previous Misinfocon blog post.&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are-and-what-we-do&#34;&gt;Who We Are and What We Do&lt;/h2&gt;
+&lt;p&gt;Before we describe what we accomplished at the Carter Center in Atlanta on May 24, it’s a good idea to briefly explain who we are and the formal mission of the MisinfoSec Working Group:
+The Credibility Coalition’s MisinfoSec Working Group (“MisinfoSec WG”) maps information security (infosec) principles onto misinformation. According to the The CredCo Misinfosec Working Group 
+&lt;a href=&#34;https://github.com/credcoalition/community-site/wiki/MisinfoSec-%28The-Intersection-of-Misinformation-and-InfoSec%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;charter&lt;/a&gt;, our goal is to develop a tactics, techniques and procedures (TTP) based framework that gives misinformation researchers and responders a common language to discuss and disrupt misinformation incidents.&lt;/p&gt;
+&lt;p&gt;Our working group is also focused on contributing to the evolution of MisinfoSec as a discipline. This evolution is happening, as we’re seeing an emergence of presentations with slides referring to TTPs, and people starting to talk about building 
+&lt;a href=&#34;https://www.isao.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISAOs&lt;/a&gt; (Information Sharing and Analysis Organizations) and 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISACs&lt;/a&gt; (Information Sharing and Analysis Centers) — non-profit organizations that provide a coordinated central hub for gathering and sharing of cyber threat information for the US Government, specifically in relationship to misinformation.&lt;/p&gt;
+&lt;h2 id=&#34;establishing-a-common-language-for-communicating-threats&#34;&gt;Establishing a Common Language for Communicating Threats&lt;/h2&gt;
+&lt;p&gt;In order to coordinate misinformation response centers with each other, and share information easily, they’re going to need information-sharing standards for misinformation.
+So, a key goal of our working group is to promote more formal, practical and rigorous treatment of types of information-based attacks, and types of defense from information-based attacks.
+The working group’s deliverables will include a text resource consisting of definitions and a strawman framework combining the elements above, and an online article highlighting some common attacks in the wild.&lt;/p&gt;
+&lt;p&gt;So far, since January 2019, the group’s imperative has been to establish a common language for communicating about and responding to dynamic threats creating complex problems.
+It’s equally important to help lead the effort to ensure that MisinfoSec (applying information security paradigms to misinformation campaigns) plays a key role in every conversation about cognitive security and information system resilience.&lt;/p&gt;
+&lt;p&gt;While we’re building upon 
+&lt;a href=&#34;https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;existing definitions of the (mis)information ecosystem&lt;/a&gt;, the Misinfo Working Group is also working at evolving the language and discipline. Acknowledging that 
+&lt;a href=&#34;https://misinfocon.com/kermit-is-credible-and-this-is-good-for-news-f26f595a356e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘credibility’ can be definitely be recognized and identified&lt;/a&gt;, and with an aim of providing more nuance to how coordinated misinformation is defined, [the following definitions](the following definitions) served as a foundation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Disinformation&lt;/strong&gt;: False information that is deliberately created or disseminated with the express purpose to cause harm. Producers of disinformation typically have political, financial, psychological or social motivations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Misinformation&lt;/strong&gt;: Information that is false, but not necessarily intended to cause harm. For example, individuals who don’t know a piece of information is false may spread it on social media in an attempt to be helpful.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Malinformation&lt;/strong&gt;: Genuine information that is shared to cause harm.This includes private or revealing information that is spread to harm a person or reputation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With these concepts and assumptions in mind, our working group operates according the definition of misinformation attack that we defined in 
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=3316742&amp;amp;dl=ACM&amp;amp;coll=DL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Misinfosec: Applying Information Security Paradigms to Misinformation Campaigns&lt;/a&gt; (2019) by Christopher R. Walker, Sara-Jayne Terp and Pablo C. Breuer:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We use ‘misinformation attack’ (and ‘misinformation campaign’) to refer to the deliberate promotion of false, misleading or mis-attributed information […] We are especially interested in misinformation designed to change beliefs in a large number of people.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actors behind misinfo attacks include nation-states, institutional actors, grassroots trolls and financially-motivated freelancers. Common motives include geopolitical aims, issue-promotion or financial gain.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;our-task-in-atlanta-building-a-misinfosec-framework&#34;&gt;Our Task in Atlanta: Building a MisinfoSec Framework&lt;/h2&gt;
+&lt;p&gt;So, on May, 25, the MisinfoSec Working Group assembled at CredConX in Atlanta to build a framework. The meeting room at the Carter Center was like our lab for the day. And, while our efforts were not in the league of 
+&lt;a href=&#34;https://www.sciencehistory.org/historical-profile/frederick-banting-charles-best-james-collip-and-john-macleod&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Banting and Best&lt;/a&gt; whose discovery of insulin improved the lives of millions of people with diabetes, we found a striking parallel.&lt;/p&gt;
+&lt;p&gt;To use a metaphor, the problems plaguing today’s information ecosystem is like diabetes.&lt;/p&gt;
+&lt;p&gt;As 
+&lt;a href=&#34;https://www.linkedin.com/in/randwaltzman/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rand Waltzman&lt;/a&gt; and 
+&lt;a href=&#34;https://twitter.com/noUpside&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renee DiResta&lt;/a&gt; have noted, “Disinformation is a not a problem that can be solved. It’s like a chronic disease that can be managed — not cured- allowing the afflicted to lead a moderately normal life.”&lt;/p&gt;
+&lt;p&gt;As we worked together at the Carter Center, on May 24, we were able to build upon the following our team’s existing work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A strawman framework we created for the 
+&lt;a href=&#34;https://www2019.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Conference MisInfoWorkshop2019 talk&lt;/a&gt; — not detailed, with a set of stages that were designed to be argued about. The paper is “Applying Information Security Paradigms to Misinformation Campaigns.” See 
+&lt;a href=&#34;https://www.youtube.com/watch?v=nzQWbTOdAAE&amp;amp;t=3735s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our colleague Christopher Walker’s presentation here starting at the 1:00:00 mark&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A mapping of marketing, psyops and new misinformation stage models against the cyber killchain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://misinfocon.com/misinformation-has-stages-7e00bd917108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;misinformation pyramid&lt;/a&gt;, so we could talk about the different viewpoints of attackers (red team) and defenders (blue team)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@timboucher/adversarial-social-media-tactics-e8e9857fede4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boucher’s list of techniques&lt;/a&gt;, mapped onto 
+&lt;a href=&#34;https://twitter.com/benimmo/status/670230827377295360?lang=en-gb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Nimmo’s “5 D’s” strategies&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An example of each of the stage-based frameworks we’d compared earlier in the day&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A list of the existing ISACs (Information Sharing and Analysis Centers), so we remembered who we’re trying to support&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;897&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Our meeting goal at the Carter Center in Atlanta was to build a framework of misinformation, stages, techniques and responses. In particular, the Working Group gathered to further solidify our work (since March 2019) on developing framework stages and technique templates for incident responders by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increasing our set of techniques&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mapping techniques to stages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solidifying stage labels&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Documenting potential technique responses&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To do this, in Atlanta the Working Group came equipped with these common terms of reference:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A technique&lt;/strong&gt;: Deployed by 
+&lt;a href=&#34;https://securingdemocracy.gmfus.org/advanced-persistent-manipulators-part-one-the-threat-to-the-social-media-industry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Persistent Manipulators&lt;/a&gt;, can include relatively benign approaches, such as the use of humour and rhetoric, all the way through to the forging of documents or the use of false identities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A stage-based model&lt;/strong&gt;: Similar to the Cyber Kill Chain. We’ve previously outlined our premise about 
+&lt;a href=&#34;https://misinfocon.com/misinformation-has-stages-7e00bd917108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;misinformation as a process of stages&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A response&lt;/strong&gt;: There is no definitive collection of best-practices or playbook of successful counteractions. The MisinfoSec Working Group has defined a response as one step of a strategic process, a holistic one that starts with assessing a technique in the context of seeing it as part of a chain-of-events. With an evolving playbook we agree with 
+&lt;a href=&#34;https://twitter.com/selectedwisdom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clint Watts’&lt;/a&gt; current position that “the goal is to take an approach that will anticipate changes in threat behavior and proactively disrupt nefarious activity rather than reactively respond to it.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;the-first-task-grouping-techniques-for-spreading-misinformation&#34;&gt;The First Task: Grouping Techniques for Spreading Misinformation&lt;/h2&gt;
+&lt;p&gt;Before the session, we prepared by listing the techniques used in each of our list of incidents, then created a post-it for each technique. Each technique post-it held an incident number and description, with techniques from incidents attributed to Russia documented on blue post-its, yellow post-its for non-Russia attribution.
+For the next step, we gathered all of the post-its, and then invited meeting attendees to cluster them into stages (pink post-it notes), and order the stages on a wall from left (campaign/incident planning) to right (campaign/incident completion).
+Mapping the wall was a process of grouping identical techniques into stacks, and talking through the stages, discussing what belonged where in the order.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Satisfied with this first exercise, we revisited 
+&lt;a href=&#34;https://misinfocon.com/misinformation-has-stages-7e00bd917108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our collection of existing models&lt;/a&gt; (ATT&amp;amp;CK model, marketing funnels, psyops, Department of Justice model), and models from Renée diResta, Ben Decker, Clint Watts and Bruce Schneier. We investigated whether their respective stages and techniques were represented in our model on the wall, and if not, added them. Surprises included that the 
+&lt;a href=&#34;https://www.lawfareblog.com/toward-information-operations-kill-chain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stages in the New York Times model&lt;/a&gt; (used by Bruce Schneier) were actually techniques (more on this in a subsequent blog post).
+Having established a model, we needed to test it. We spent just over an hour adopting a “red team” (attacker) mindset in order to build an imaginary misinformation campaign. It was invaluable walking through each stage (see Sara-Jayne Terp’s 
+&lt;a href=&#34;https://misinfocon.com/misinformation-has-stages-7e00bd917108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Misinformation has stages&lt;/a&gt; blog post for more details) to see whether we’d missed anything.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1402&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;No surprise, we had missed a few details, and so took the opportunity to add both stages and new techniques as we walked through the exercise.&lt;/p&gt;
+&lt;h2 id=&#34;the-next-task-developing-techniques-to-combat-misinformation&#34;&gt;The Next Task: Developing Techniques to Combat Misinformation&lt;/h2&gt;
+&lt;p&gt;With a tested model, after we transferred all of the information into a new spreadsheet, we were ready to dive into individual techniques. As part of this next stage of our work, we looked at techniques both individually and as part of a process, and we spent time thinking about how we could counter or disrupt them.&lt;/p&gt;
+&lt;p&gt;Given our time constraints, we focused on techniques that had amassed the most post-its during our previous exercise. More post-its meant the techniques were typically used in multiple incidents, such as fake Facebook group and Twitter bots and trolls.&lt;/p&gt;
+&lt;p&gt;At this stage, some additional discussions, which lead to useful pointers, included:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Think in terms of feedback loops, rather than linear processes&lt;/strong&gt;: While we might have a linear stage model, what we’re really observing are cycles and feedback loops (which is already built into ATT&amp;amp;CK Adversarial Tactics, Techniques, and Common Knowledge).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Look for both content and context&lt;/strong&gt;: The network-building stage is about creating the context of a campaign; the content creation stage is about creating the content for it. These concepts both map nicely to our blue team idea of looking for both content and context.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Ask who is leading a misinformation campaign&lt;/strong&gt;: We looked at how adversaries use metrics and measurement, and plan or deploy countermeasures. Is it implicit that there’s a “general manager” watching over the campaign, checking metrics and so on?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Understand different levels of defence&lt;/strong&gt;: The working group looked at technique-level defence vs procedure-level defences (e.g. disrupting the chain of work), and doing that as far left in the stage diagram as possible. For example, we looked at how online or digital network building looks like a good location to disrupt, or getting inside the organisational places for doing both recon and delivering counters.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1145&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;dont-forget-the-boom&#34;&gt;Don’t Forget the Boom!&lt;/h2&gt;
+&lt;p&gt;And, during the day at the Carter Center, we didn’t forget the “boom,” a term borrowed from the military meaning the moment before 
+&lt;a href=&#34;https://www.urbandictionary.com/define.php?term=a%20bomb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a bomb&lt;/a&gt; explodes (as opposed to “right-of-boom”, which comes after). In particular we’re very interested in working towards the disruption, denial and displacement of the left-of-boom techniques.&lt;/p&gt;
+&lt;h1 id=&#34;whats-next-for-credcos-misinfosec-wg&#34;&gt;What’s Next for CredCo’s MisinfoSec WG&lt;/h1&gt;
+&lt;p&gt;By the end of our working session at CredConX at the Carter Center in Atlanta on May 24, we successfully created AMITT (Adversarial Misinformation and Influence Tactics and Techniques), a preliminary MisinfoSec framework that included stages, techniques and responses. Next, the working group needs to test it with different demographics, continue the counter-discussions and support the new ISAOs as they come online. As well, stay tuned for our June report — our goal is to have Version 1.0 online by the end of July.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Participants at the May 24 session in Atlanta included Sara-Jayne Terp, Christopher Walker, John Gray, Courtney Crooks, Chau Tong and Renee DiResta. Working group member Pablo Breuer was absent for the day. Many thanks to them and to our guests — Amy Bruckman, Benn Konsynski, Richard Foard, David Carroll, Michael Best, Nitin Agarwal and Tanushree Mitra — for their thoughts and input.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
