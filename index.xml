@@ -121,6 +121,397 @@
     </item>
     
     <item>
+      <title>The MisinfosecWG Counters Workshop</title>
+      <link>https://cogsec-collab.org/post/misinfosecwg-counters/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/post/misinfosecwg-counters/</guid>
+      <description>&lt;h1 id=&#34;the-misinfosec-working-group&#34;&gt;The Misinfosec Working Group&lt;/h1&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;MisinfosecWG timeline. We built infosec-based standards for describing and sharing information about disinformation incidents&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;840&#34; height=&#34;436&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    MisinfosecWG timeline. We built infosec-based standards for describing and sharing information about disinformation incidents
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The Misinfosec Working Group (“misinfosecWG”) is part of the Credibility Coalition. It was formed around a standard for action: we wanted a way for the many groups and individuals that we saw starting to investigate disinformation incidents to quickly share information about them, in the same ways that information security groups share information through information exchanges like ISACs and ISAOs, and disclosure schemes like bug bounties. We also wanted, as the field of disinformation response grew, to build ways for groups and individuals to quickly look up and share information about the mitigations and other activities that worked (or might work) to counter active disinformation campaigns.&lt;/p&gt;
+&lt;p&gt;MisinfosecWG has come a long way since Pablo and I talked in 2018 about creating standards for misinfosec — the application of information security principles and practices to disinformation incident mitigation — and decided that CredCo was the only obvious place to incubate such a standards group. Walker and I started the CredCo misinfosec working group in December 2018, and since its official launch in January 2019, we’ve built a bridge between information security, misinformation and specialists in fields like narrative science (looking at you, John, Walker and Danielle), placed infosec-style response firmly inside disinformation response, and adapted existing infosec standards like ATT&amp;amp;CK and STIX into the AMITT standard for disinformation use, giving us the ability to transmit, share and analyze information about disinformation using existing information security technologies and techniques.&lt;/p&gt;
+&lt;p&gt;And in November 2019, MisinfosecWG ran the second of its workshops; the “Blue Team Workshop” on misinformation countermeasures. The last of these, the “Red Team Workshop”, in Atlanta, modeled the tactics and techniques used by disinformation creators, and produced the AMITT framework of disinformation tactics, techniques and procedures (TTPs). The DC workshop, held in the Atlantic Council’s meeting space, focused on how responders could mitigate and counter those TTPs.&lt;/p&gt;
+&lt;h1 id=&#34;why-run-a-countermeasures-workshop&#34;&gt;Why Run a Countermeasures Workshop?&lt;/h1&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A STIX diagram for a disinformation incident. The workshop was about creating more of the green box on the right (courses of action to counter incidents, techniques, tactics etc)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;896&#34; height=&#34;589&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A STIX diagram for a disinformation incident. The workshop was about creating more of the green box on the right (courses of action to counter incidents, techniques, tactics etc)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;MisinfosecWG has always had two main aims: to promote a more formal and rigorous classification of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Types of information-based attacks; and&lt;/li&gt;
+&lt;li&gt;Types of defense from information-based attacks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’d already covered the first bullet with our work on AMITT and STIX-based descriptions of disinformation TTPs. This workshop was all about our work on the second bullet: defense, and in particular, disinformation counters, mitigations and other potential responses.&lt;/p&gt;
+&lt;p&gt;Countering disinformation is a multi-disciplinary activity, so we enlisted experts on disinformation, cognitive security, information security, narrative and rumor tracking, diplomacy, trust and safety, counterterrorism and CVE from our target user communities: industry, academia, media, community, government and military. We stated the workshop goals up front:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Draft a disinformation “Blue Team” playbook. Its intended users are defenders, information security people and organizations; its contents should be a set of responses to misinformation attacks, with information on networks, response types, frameworks, examples.&lt;/li&gt;
+&lt;li&gt;Ideate supporting an operational global Cognitive Security response network. The audience for this is potential response centre participants and leaders, and its contents should be a set of processes, methods, understanding needed to connect actors, partners, collaborators and funders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And we framed the first solution space by combining the stages that a disinformation incident goes through (its “tactics”) from AMITT with the types of action that could block or mitigate each of them (courses of action categories) to create an empty ‘grid’ on the wall.&lt;/p&gt;
+&lt;p&gt;Our aim in the workshop was to fill this grid with potential responses, then drill down into the details of some of those responses. First, level-setting. With all the different disciplines in the room, we used the AMITT framework and misinfosec pyramid (campaigns/ incidents/ narratives/ artefacts) to frame the work we were doing, including the idea that each object in the STIX graphs we create for each disinformation incident could potentially be paired with a course of action (the green icon, defined in information security as “an action taken to either prevent an attack or respond to an attack”) to mitigate, block or disable it, and that the ATT&amp;amp;CK idea of finding counters for each technique (the blue icons) was a good place to start.&lt;/p&gt;
+&lt;h1 id=&#34;existing-counters&#34;&gt;Existing Counters&lt;/h1&gt;
+&lt;p&gt;We didn’t go empty-handed to the workshop. The MisinfosecWG team had already spent time looking for counters in our set of example incidents (in the AMITT GitHub repository), and looking at existing counter examples and types through a combination of existing knowledge and literature search (e.g. in the DoJ’s framework). Some well-known examples we gave of these are below, but we also encouraged attendees to think laterally about countering the techniques that they saw:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;US Cyber Command blocking internet services to the Internet Research Agency on the day of the 2018 US Midterm elections&lt;/li&gt;
+&lt;li&gt;Twitter killing a pro-Saudi botnet spreading Khashoggi disinformation tweets&lt;/li&gt;
+&lt;li&gt;Macron’s team creating data honeypots before French elections&lt;/li&gt;
+&lt;li&gt;CISA’s “War on Pineapple” education sheets about disinformation&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;AMITT Tactics and Techniques — see https://github.com/misinfosecproject/amitt_framework&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    AMITT Tactics and Techniques — see &lt;a href=&#34;https://github.com/misinfosecproject/amitt_framework&#34;&gt;https://github.com/misinfosecproject/amitt_framework&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We needed to frame these — to structure them so they weren’t a random collection of examples and suggestions. So we used AMITT’s TTPs (Tactics, Techniques, Procedures).&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Courses of Action grid for AMITT tactics&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;731&#34; height=&#34;377&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Courses of Action grid for AMITT tactics
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;AMITT breaks disinformation incidents down into tactic stages. In infosec, when you map those tactics against the types of action that could be taken against each tactic stage, you get a Courses of Action matrix.&lt;/p&gt;
+&lt;p&gt;We used the JP 3–13 (2006 US military Joint Publication 3–13 on information operations) definitions for our action categories; there are many of these, but we used the subset of Detect, Deny, Disrupt, Degrade, Deceive and Destroy, adding “Deter” to the list.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect: discover or discern the existence, presence, or fact of an intrusion into information systems.&lt;/li&gt;
+&lt;li&gt;Deny: prevent the adversary from accessing and using critical information, systems, and services.&lt;/li&gt;
+&lt;li&gt;Disrupt: break or interrupt the flow of information.&lt;/li&gt;
+&lt;li&gt;Degrade: reduce the effectiveness or efficiency of adversary command and control or communications systems, and information collection efforts or means.&lt;/li&gt;
+&lt;li&gt;Deceive: cause a person to believe what is not true. military deception seeks to mislead adversary decision makers by manipulating their perception of reality.&lt;/li&gt;
+&lt;li&gt;Destroy: damage a system or entity so badly that it cannot perform any function or be restored to a usable condition without being entirely rebuilt.&lt;/li&gt;
+&lt;li&gt;Deter: discourage&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;SANS scale for counters&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;789&#34; height=&#34;358&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    SANS scale for counters
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We also talked about counters in the context of the SANS scale from architectural through to offensive countermeasures.&lt;/p&gt;
+&lt;h1 id=&#34;brainstorming-a-courses-of-action-wall&#34;&gt;Brainstorming a Courses of Action wall&lt;/h1&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Courses of Action starting to fill up. Note the blank boxes in it, where we might need more work&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Courses of Action starting to fill up. Note the blank boxes in it, where we might need more work
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;And then it was post-its time. We split into groups, and each group took a set of tactic columns to work on, and a large stack of blank post-its. They didn’t disappoint. The wall filled up (the wall rows were courses of action; the columns were AMITT tactic stages).&lt;/p&gt;
+&lt;p&gt;We had a wide range of ideas back from the groups. Because we forced people to think about countering the whole disinformation lifecycle, from strategic planning all the way through to after-action evaluations, we think we captured counters that haven’t been tried before, many of which are in the valuable “left-of-boom” area before a campaign reaches the general public.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Course of Action box for “Detect” on tactic “Develop Content”&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Course of Action box for “Detect” on tactic “Develop Content”
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;A post-it on a wall isn’t a response, so we asked teams to drill further into each set of counters — looking at who could take each action, how it might play out, what its side-effects might be. That produced a lot more detail, and yet more counters, all of which were added to a prototype technique-level playbook.&lt;/p&gt;
+&lt;h1 id=&#34;thinking-about-end-users&#34;&gt;Thinking about End Users&lt;/h1&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;ISACs — just some of the bodies connected to the Cognitive Security ISAO&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;568&#34; height=&#34;352&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    ISACs — just some of the bodies connected to the Cognitive Security ISAO
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Disinformation is a whole-system problem, and we took the opportunity to spend some time preparing for the next activity needed — coordinating whole-system response through bodies like the US ISAO system, and more specifically the prototype Cognitive Security ISAO, looking at what they do and how we as a group could support them.&lt;/p&gt;
+&lt;h1 id=&#34;making-counters-useful&#34;&gt;Making Counters Useful&lt;/h1&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Counters organised by metatag — see https://github.com/misinfosecproject/amitt_counters&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1854&#34; height=&#34;1448&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Counters organised by metatag — see &lt;a href=&#34;https://github.com/misinfosecproject/amitt_counters&#34;&gt;https://github.com/misinfosecproject/amitt_counters&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;And then the workshop was done, but we’re not finished yet. We created a spreadsheet from the courses of action grid. After consolidating identical ideas, we have nearly 200 counters to analyze and make useful, plus suggested additions to AMITT etc.&lt;/p&gt;
+&lt;p&gt;MisinfosecWG has finished its incubation year with CredCo, and the team has created and is now working in a new community, 
+&lt;a href=&#34;https://www.cogsec-collab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CogSec Collab&lt;/a&gt;, that’s concentrating on supporting disinformation volunteer groups and individuals.&lt;/p&gt;
+&lt;p&gt;We’re still organising the counters. We have them tagged with tactic, techniques, groups who could be write up in our responses. We grouped by ‘metatags’: tags for similar activities, til we realised that that was a proxy for a top-down activity and started describing that instead. We have two reports in the works: one on how we found and organised counters, and another on the counters themselves. Roger and Eric are busy adapting ATT&amp;amp;CK technologies to carry the AMITT responses and playbook entries that we’re building. It’s going to take us a little while, but we’re still slowly moving forwards with misinfosec.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AM!TT Counters</title>
       <link>https://cogsec-collab.org/project/amitt_counters/</link>
       <pubDate>Wed, 12 Feb 2020 13:56:48 -0500</pubDate>
@@ -146,301 +537,177 @@
     </item>
     
     <item>
-      <title>Writing technical content in Academic</title>
-      <link>https://cogsec-collab.org/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \&lt;br&gt;
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+      <title>Tools and Techniques for Cognitive Security</title>
+      <link>https://cogsec-collab.org/slides/cansecwest2020/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/slides/cansecwest2020/</guid>
+      <description>&lt;h2 id=&#34;tools-and-techniques&#34;&gt;Tools and Techniques&lt;/h2&gt;
+&lt;h3 id=&#34;for-cognitive-security&#34;&gt;for Cognitive Security&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://twitter.com/bodaceacat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara-Jayne Terp&lt;/a&gt; | 
+&lt;a href=&#34;https://twitter.com/VV_X_7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roger Johnston&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cogsec-collaborative&#34;&gt;CogSec Collaborative&lt;/h2&gt;
+&lt;h3 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
+&lt;li&gt;researchers&lt;/li&gt;
+&lt;li&gt;journalists&lt;/li&gt;
+&lt;li&gt;technologists&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+&lt;hr&gt;
+&lt;h2 id=&#34;cogsec-collaborative-1&#34;&gt;CogSec Collaborative&lt;/h2&gt;
+&lt;h3 id=&#34;what-we-do&#34;&gt;What we do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop standards for misinfosec&lt;/li&gt;
+&lt;li&gt;Develop tools and capabilities&lt;/li&gt;
+&lt;li&gt;Build communities of Elves&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cogsec-collaborative-2&#34;&gt;CogSec Collaborative&lt;/h2&gt;
+&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sara-Jayne Terp&lt;/li&gt;
+&lt;li&gt;Pablo Breuer&lt;/li&gt;
+&lt;li&gt;grugq&lt;/li&gt;
+&lt;li&gt;Grant Dobbe&lt;/li&gt;
+&lt;li&gt;Roger Johnston&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cogsec-collaborative-3&#34;&gt;CogSec Collaborative&lt;/h2&gt;
+&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
+&lt;p&gt;The Cognitive Security Collaborative’s mission is to bring together information security researchers, data scientists, and other subject-matter experts in order to create and improve resources for the protection and defense of the cognitive domain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-&lt;p&gt;Academic supports a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
-{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
-{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://cogsec-collab.org/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://cogsec-collab.org/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>Building Standards for Misinfosec</title>
+      <link>https://cogsec-collab.org/publication/standards_for_misinfosec/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/publication/standards_for_misinfosec/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -614,46 +881,6 @@ Three
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/talks/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://cogsec-collab.org/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://cogsec-collab.org/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

@@ -19,10 +19,12 @@
   
   <url>
     <loc>https://cogsec-collab.org/authors/sarajayne_terp/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cogsec-collab.org/authors/pablo_breuer/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,12 +91,32 @@
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/project/amitt_counters/</loc>
-    <lastmod>2020-02-12T13:56:48-05:00</lastmod>
+    <loc>https://cogsec-collab.org/tags/cognitive-security/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cogsec-collab.org/tags/disinformation/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/tags/information-operations/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/post/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/post/misinfosecwg-counters/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cogsec-collab.org/project/amitt_counters/</loc>
     <lastmod>2020-02-12T13:56:48-05:00</lastmod>
   </url>
   
@@ -114,53 +136,38 @@
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/slides/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/slides/cansecwest2020/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/publication_types/9/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/publication/standards_for_misinfosec/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/tags/misinfosec/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cogsec-collab.org/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cogsec-collab.org/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -194,28 +201,7 @@
   </url>
   
   <url>
-    <loc>https://cogsec-collab.org/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cogsec-collab.org/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cogsec-collab.org/authors/admin/</loc>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misinfosec | CogSec Collaborative</title>
+    <link>https://cogsec-collab.org/tags/misinfosec/</link>
+      <atom:link href="https://cogsec-collab.org/tags/misinfosec/index.xml" rel="self" type="application/rss+xml" />
+    <description>Misinfosec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Misinfosec</title>
+      <link>https://cogsec-collab.org/tags/misinfosec/</link>
+    </image>
+    
+    <item>
+      <title>Building Standards for Misinfosec</title>
+      <link>https://cogsec-collab.org/publication/standards_for_misinfosec/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/publication/standards_for_misinfosec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
