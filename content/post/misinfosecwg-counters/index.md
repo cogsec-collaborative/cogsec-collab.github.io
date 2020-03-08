@@ -15,7 +15,7 @@ image:
   caption: 'Courses of Action wall — this visually anchored the workshop'
 ---
 
-# The Misinfosec Working Group
+## The Misinfosec Working Group
 
 {{< figure src="misinfosec1.png" title="MisinfosecWG timeline. We built infosec-based standards for describing and sharing information about disinformation incidents" lightbox="true" >}}
 
@@ -25,7 +25,7 @@ MisinfosecWG has come a long way since Pablo and I talked in 2018 about creating
 
 And in November 2019, MisinfosecWG ran the second of its workshops; the “Blue Team Workshop” on misinformation countermeasures. The last of these, the “Red Team Workshop”, in Atlanta, modeled the tactics and techniques used by disinformation creators, and produced the AMITT framework of disinformation tactics, techniques and procedures (TTPs). The DC workshop, held in the Atlantic Council’s meeting space, focused on how responders could mitigate and counter those TTPs.
 
-# Why Run a Countermeasures Workshop?
+## Why Run a Countermeasures Workshop?
 
 {{< figure src="misinfosec2.png" title="A STIX diagram for a disinformation incident. The workshop was about creating more of the green box on the right (courses of action to counter incidents, techniques, tactics etc)" lightbox="true" >}}
 
@@ -45,7 +45,7 @@ And we framed the first solution space by combining the stages that a disinforma
 
 Our aim in the workshop was to fill this grid with potential responses, then drill down into the details of some of those responses. First, level-setting. With all the different disciplines in the room, we used the AMITT framework and misinfosec pyramid (campaigns/ incidents/ narratives/ artefacts) to frame the work we were doing, including the idea that each object in the STIX graphs we create for each disinformation incident could potentially be paired with a course of action (the green icon, defined in information security as “an action taken to either prevent an attack or respond to an attack”) to mitigate, block or disable it, and that the ATT&CK idea of finding counters for each technique (the blue icons) was a good place to start.
 
-# Existing Counters
+## Existing Counters
 
 We didn’t go empty-handed to the workshop. The MisinfosecWG team had already spent time looking for counters in our set of example incidents (in the AMITT GitHub repository), and looking at existing counter examples and types through a combination of existing knowledge and literature search (e.g. in the DoJ’s framework). Some well-known examples we gave of these are below, but we also encouraged attendees to think laterally about countering the techniques that they saw:
 
@@ -76,7 +76,7 @@ We used the JP 3–13 (2006 US military Joint Publication 3–13 on information 
 
 We also talked about counters in the context of the SANS scale from architectural through to offensive countermeasures.
 
-# Brainstorming a Courses of Action wall
+## Brainstorming a Courses of Action wall
 
 {{< figure src="misinfosec6.jpg" title="Courses of Action starting to fill up. Note the blank boxes in it, where we might need more work" lightbox="true" >}}
 
@@ -88,13 +88,13 @@ We had a wide range of ideas back from the groups. Because we forced people to t
 
 A post-it on a wall isn’t a response, so we asked teams to drill further into each set of counters — looking at who could take each action, how it might play out, what its side-effects might be. That produced a lot more detail, and yet more counters, all of which were added to a prototype technique-level playbook.
 
-# Thinking about End Users
+## Thinking about End Users
 
 {{< figure src="misinfosec8.png" title="ISACs — just some of the bodies connected to the Cognitive Security ISAO" lightbox="true" >}}
 
 Disinformation is a whole-system problem, and we took the opportunity to spend some time preparing for the next activity needed — coordinating whole-system response through bodies like the US ISAO system, and more specifically the prototype Cognitive Security ISAO, looking at what they do and how we as a group could support them.
 
-# Making Counters Useful
+## Making Counters Useful
 
 {{< figure src="misinfosec9.png" title="Counters organised by metatag — see https://github.com/misinfosecproject/amitt_counters" lightbox="true" >}}
 
