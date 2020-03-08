@@ -172,6 +172,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_white_paper
+  translation: White Paper
+
 # Project details
 
 - id: open_project_site
