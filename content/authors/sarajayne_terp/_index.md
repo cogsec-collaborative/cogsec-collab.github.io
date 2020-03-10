@@ -23,8 +23,8 @@ bio: Data nerd, specializing in complex business and social problems.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Autonomous Systems
+- Cognitive Security
 
 education:
   courses:
