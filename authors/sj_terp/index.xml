@@ -2,15 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/authors/sarajayne_terp/</link>
-      <atom:link href="https://cogsec-collab.org/authors/sarajayne_terp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogsec-collab.org/authors/sj_terp/</link>
+      <atom:link href="https://cogsec-collab.org/authors/sj_terp/index.xml" rel="self" type="application/rss+xml" />
     <description>CogSec Collaborative</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CogSec Collaborative</title>
-      <link>https://cogsec-collab.org/authors/sarajayne_terp/</link>
+      <link>https://cogsec-collab.org/authors/sj_terp/</link>
     </image>
+    
+    <item>
+      <title>Tools and Techniques for Cognitive Security</title>
+      <link>https://cogsec-collab.org/talk/2020_cansecwest/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/talk/2020_cansecwest/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The MisinfosecWG Counters Workshop</title>
@@ -405,9 +427,9 @@
     
     <item>
       <title>Building Standards for Misinfosec</title>
-      <link>https://cogsec-collab.org/publication/standards_for_misinfosec/</link>
+      <link>https://cogsec-collab.org/publication/standards-for-misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/standards_for_misinfosec/</guid>
+      <guid>https://cogsec-collab.org/publication/standards-for-misinfosec/</guid>
       <description></description>
     </item>
     
