@@ -23,7 +23,7 @@ bio: Feeling cute might influence later idk
 
 interests:
 - Adversary Emulation
-- Purple Team
+- Information Warfare
 - Threat Intelligence
 
 
