@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-01-01T00:00:00Z"
 
-authors: ["Roger Johnston"]
+authors: ["VVX7"]
 tags: ["AMITT"]
 
 # Is this a featured talk? (true/false)
