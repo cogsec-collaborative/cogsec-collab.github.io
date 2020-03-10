@@ -3,7 +3,7 @@ title: The MisinfosecWG Counters Workshop
 subtitle: Moving From Admiration to Action
 # summary: foo
 authors:
-- sarajayne_terp
+- sj_terp
 date: 2020-03-05
 math: true
 draft: false

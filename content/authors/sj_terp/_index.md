@@ -5,7 +5,7 @@ weight: 5
 
 # Username (this should match the folder name)
 authors:
-- sarajayne_terp
+- sj_terp
 
 # Is this the primary user of the site?
 superuser: false

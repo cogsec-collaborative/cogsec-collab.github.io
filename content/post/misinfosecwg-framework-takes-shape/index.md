@@ -3,7 +3,7 @@ title: The MisinfoSec Framework Takes Shape
 subtitle: Misinformation, Stages, Techniques and Responses
 # summary: foo
 authors:
-- sarajayne_terp
+- sj_terp
 date: 2019-07-19
 math: true
 draft: false

@@ -2,7 +2,7 @@
 title: "Building Standards for Misinfosec"
 subtitle: "Applying Information Security Principles to Misinformation Response"
 authors:
-- sarajayne_terp
+- sj_terp
 - pablo_breuer
 date: "2019-07-27T00:00:00Z"
 doi: ""
