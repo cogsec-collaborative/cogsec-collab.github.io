@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sara-Jayne Terp
+name: SJ Terp
 weight: 5
 
 # Username (this should match the folder name)
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Chair
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,6 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+SJ builds frameworks to improve how autonomous systems and human communities work together. Fusing her work as a data scientist and information security expert, she is examining the light and dark sides of the human-AI interface: building algorithms that enable autonomous systems to accelerate the creation of shared situational awareness in crises; and applying information security principles to counter the impact of misinformation and disinformation campaigns on human systems. 
+
+She runs Bodacea Light Industries, is a senior advisor at the Atlantic Council, and chairs the Cognitive Security CoLab. Previously she has taught data science at Columbia University, served as CTO of UN Global Pulse (the UN’s big data initiative), and designed machine learning algorithms and unmanned vehicle systems at the UK Ministry of Defence. SJ holds degrees in AI and neural networks.
