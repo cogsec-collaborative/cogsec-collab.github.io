@@ -12,7 +12,8 @@ address:
   country: Canada
 
 summary: Status update on the state of counter disinformation playbooks.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+abstract: "There are now three main layers of security to consider: cyber, physical and cognitive. Cognitive security includes tracking and countering disinformation, misinformation and other information operations. <br><br>In this talk, we show the frameworks we’ve built for rapidly sharing information about disinformation campaigns and their counters, including AMITT, the disinformation extension to the ATT&CK framework, how to connect incident-level information to data science artefacts using a disinformation extension to STIX, and the tactic- and technique-level disinformation mitigations and counters that become possible when you think about disinformation incidents as a structured information security problem."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +25,7 @@ all_day: true
 publishDate: "2020-01-01T00:00:00Z"
 
 authors: ["sj_terp", "VVX7"]
-tags: ["AMITT"]
+tags: ["AMITT", "Cognitive Security", "Disinformation"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,6 +39,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/bodaceacat
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/VV_X_7
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -48,7 +53,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 2020_CanSecWest
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -66,11 +71,3 @@ math: true
 {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

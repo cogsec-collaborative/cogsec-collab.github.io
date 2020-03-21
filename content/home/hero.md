@@ -37,7 +37,7 @@ hero_media = "amitt.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/cogsec-collaborative"
+  url = "https://github.com/cogsec-collaborative/amitt_counters"
   label = "Get Started"
   icon_pack = "fas"
   icon = "crow"
@@ -48,9 +48,9 @@ hero_media = "amitt.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
+#  label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative/amitt_counters" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
 +++
 
 **CogSec Collaborative helps communities counter disinformation.**
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/cogsec-collaborative" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/cogsec-collaborative/amitt_counters" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
