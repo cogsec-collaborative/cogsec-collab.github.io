@@ -5,12 +5,129 @@
     <link>https://cogsec-collab.org/authors/sj_terp/</link>
       <atom:link href="https://cogsec-collab.org/authors/sj_terp/index.xml" rel="self" type="application/rss+xml" />
     <description>CogSec Collaborative</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CogSec Collaborative</title>
       <link>https://cogsec-collab.org/authors/sj_terp/</link>
     </image>
+    
+    <item>
+      <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
+      <link>https://cogsec-collab.org/talk/2020_bsides_vancouver/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools and Techniques for Cognitive Security</title>
+      <link>https://cogsec-collab.org/slides/2020_cansecwest/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogsec-collab.org/slides/2020_cansecwest/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;slides/Slide1.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide2.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide3.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide4.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide5.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide6.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide7.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide8.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide9.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide10.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide11.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide12.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide13.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide14.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide15.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide16.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide17.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide18.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide19.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide20.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide21.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide22.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide23.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide24.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide25.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide26.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide27.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide28.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide29.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide30.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide31.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide32.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide33.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide34.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide35.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide36.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide37.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide38.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide39.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide40.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide41.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide42.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide43.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide44.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide45.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide46.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide47.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide48.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
@@ -22,15 +139,6 @@
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

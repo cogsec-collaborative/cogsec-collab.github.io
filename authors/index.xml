@@ -5,7 +5,7 @@
     <link>https://cogsec-collab.org/authors/</link>
       <atom:link href="https://cogsec-collab.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://cogsec-collab.org/authors/sj_terp/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/authors/sj_terp/</guid>
       <description>&lt;p&gt;SJ builds frameworks to improve how autonomous systems and human communities work together. Fusing her work as a data scientist and information security expert, she is examining the light and dark sides of the human-AI interface: building algorithms that enable autonomous systems to accelerate the creation of shared situational awareness in crises; and applying information security principles to counter the impact of misinformation and disinformation campaigns on human systems.&lt;/p&gt;
 &lt;p&gt;She runs Bodacea Light Industries, is a senior advisor at the Atlantic Council, and chairs the Cognitive Security CoLab. Previously she has taught data science at Columbia University, served as CTO of UN Global Pulse (the UN’s big data initiative), and designed machine learning algorithms and unmanned vehicle systems at the UK Ministry of Defence. SJ holds degrees in AI and neural networks.&lt;/p&gt;
@@ -52,7 +52,7 @@
     <item>
       <title></title>
       <link>https://cogsec-collab.org/authors/vvx7/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://cogsec-collab.org/authors/vvx7/</guid>
       <description>&lt;p&gt;I do infosec things and sometimes I do misinfosec things too.&lt;/p&gt;
 </description>
