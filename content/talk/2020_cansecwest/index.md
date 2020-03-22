@@ -34,6 +34,9 @@ image:
   caption: ''
   focal_point: Right
 
+images:
+- featured.png
+
 links:
 - icon: twitter
   icon_pack: fab
