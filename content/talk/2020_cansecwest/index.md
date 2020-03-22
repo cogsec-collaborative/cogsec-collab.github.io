@@ -12,7 +12,6 @@ address:
   country: Canada
 
 summary: Status update on the state of counter disinformation playbooks.
-
 abstract: "There are now three main layers of security to consider: cyber, physical and cognitive. Cognitive security includes tracking and countering disinformation, misinformation and other information operations. <br><br>In this talk, we show the frameworks we’ve built for rapidly sharing information about disinformation campaigns and their counters, including AMITT, the disinformation extension to the ATT&CK framework, how to connect incident-level information to data science artefacts using a disinformation extension to STIX, and the tactic- and technique-level disinformation mitigations and counters that become possible when you think about disinformation incidents as a structured information security problem."
 
 # Talk start and end times.
@@ -33,9 +32,6 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-
-images:
-- featured.png
 
 links:
 - icon: twitter
