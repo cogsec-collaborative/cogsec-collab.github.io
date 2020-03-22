@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/tags/</link>
-      <atom:link href="https://cogsec-collab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cogsec-collab.org/tags/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>https://cogsec-collab.org/tags/</link>
+      <link>https://www.cogsec-collab.org/tags/</link>
     </image>
     
     <item>
       <title>AMITT</title>
-      <link>https://cogsec-collab.org/tags/amitt/</link>
+      <link>https://www.cogsec-collab.org/tags/amitt/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/amitt/</guid>
+      <guid>https://www.cogsec-collab.org/tags/amitt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive Security</title>
-      <link>https://cogsec-collab.org/tags/cognitive-security/</link>
+      <link>https://www.cogsec-collab.org/tags/cognitive-security/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/cognitive-security/</guid>
+      <guid>https://www.cogsec-collab.org/tags/cognitive-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disinformation</title>
-      <link>https://cogsec-collab.org/tags/disinformation/</link>
+      <link>https://www.cogsec-collab.org/tags/disinformation/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/disinformation/</guid>
+      <guid>https://www.cogsec-collab.org/tags/disinformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Operations</title>
-      <link>https://cogsec-collab.org/tags/information-operations/</link>
+      <link>https://www.cogsec-collab.org/tags/information-operations/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/information-operations/</guid>
+      <guid>https://www.cogsec-collab.org/tags/information-operations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misinfosec</title>
-      <link>https://cogsec-collab.org/tags/misinfosec/</link>
+      <link>https://www.cogsec-collab.org/tags/misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/misinfosec/</guid>
+      <guid>https://www.cogsec-collab.org/tags/misinfosec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyber Security</title>
-      <link>https://cogsec-collab.org/tags/cyber-security/</link>
+      <link>https://www.cogsec-collab.org/tags/cyber-security/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/tags/cyber-security/</guid>
+      <guid>https://www.cogsec-collab.org/tags/cyber-security/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AMITT | CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/tags/amitt/</link>
-      <atom:link href="https://cogsec-collab.org/tags/amitt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cogsec-collab.org/tags/amitt/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/amitt/index.xml" rel="self" type="application/rss+xml" />
     <description>AMITT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>AMITT</title>
-      <link>https://cogsec-collab.org/tags/amitt/</link>
+      <link>https://www.cogsec-collab.org/tags/amitt/</link>
     </image>
     
     <item>
       <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://cogsec-collab.org/talk/2020_bsides_vancouver/</link>
+      <link>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
+      <guid>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.org/slides/2020_cansecwest/</link>
+      <link>https://www.cogsec-collab.org/slides/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/slides/2020_cansecwest/</guid>
+      <guid>https://www.cogsec-collab.org/slides/2020_cansecwest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;slides/Slide1.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;img src=&#34;slides/Slide2.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.org/talk/2020_cansecwest/</link>
+      <link>https://www.cogsec-collab.org/talk/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/talk/2020_cansecwest/</guid>
+      <guid>https://www.cogsec-collab.org/talk/2020_cansecwest/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -144,34 +144,34 @@
     
     <item>
       <title>AM!TT Counters</title>
-      <link>https://cogsec-collab.org/project/amitt_counters/</link>
+      <link>https://www.cogsec-collab.org/project/amitt_counters/</link>
       <pubDate>Wed, 12 Feb 2020 13:56:48 -0500</pubDate>
-      <guid>https://cogsec-collab.org/project/amitt_counters/</guid>
+      <guid>https://www.cogsec-collab.org/project/amitt_counters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AM!TT Navigator</title>
-      <link>https://cogsec-collab.org/project/amitt_navigator/</link>
+      <link>https://www.cogsec-collab.org/project/amitt_navigator/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/project/amitt_navigator/</guid>
+      <guid>https://www.cogsec-collab.org/project/amitt_navigator/</guid>
       <description>&lt;iframe src=&#34;https://vvx7.github.io/amitt-navigator/amitt/&#34; width=&#34;100%&#34; height=&#34;1000px&#34;&gt;&lt;/iframe&gt; 
 </description>
     </item>
     
     <item>
       <title>AM!TT Framework</title>
-      <link>https://cogsec-collab.org/project/amitt_framework/</link>
+      <link>https://www.cogsec-collab.org/project/amitt_framework/</link>
       <pubDate>Tue, 11 Feb 2020 13:56:48 -0500</pubDate>
-      <guid>https://cogsec-collab.org/project/amitt_framework/</guid>
+      <guid>https://www.cogsec-collab.org/project/amitt_framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Standards for Misinfosec</title>
-      <link>https://cogsec-collab.org/publication/standards-for-misinfosec/</link>
+      <link>https://www.cogsec-collab.org/publication/standards-for-misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/standards-for-misinfosec/</guid>
+      <guid>https://www.cogsec-collab.org/publication/standards-for-misinfosec/</guid>
       <description></description>
     </item>
     

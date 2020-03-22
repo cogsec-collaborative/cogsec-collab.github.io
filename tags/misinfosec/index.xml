@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misinfosec | CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/tags/misinfosec/</link>
-      <atom:link href="https://cogsec-collab.org/tags/misinfosec/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cogsec-collab.org/tags/misinfosec/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/misinfosec/index.xml" rel="self" type="application/rss+xml" />
     <description>Misinfosec</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Misinfosec</title>
-      <link>https://cogsec-collab.org/tags/misinfosec/</link>
+      <link>https://www.cogsec-collab.org/tags/misinfosec/</link>
     </image>
     
     <item>
       <title>Building Standards for Misinfosec</title>
-      <link>https://cogsec-collab.org/publication/standards-for-misinfosec/</link>
+      <link>https://www.cogsec-collab.org/publication/standards-for-misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/publication/standards-for-misinfosec/</guid>
+      <guid>https://www.cogsec-collab.org/publication/standards-for-misinfosec/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyber Security | CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/tags/cyber-security/</link>
-      <atom:link href="https://cogsec-collab.org/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cogsec-collab.org/tags/cyber-security/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyber Security</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Cyber Security</title>
-      <link>https://cogsec-collab.org/tags/cyber-security/</link>
+      <link>https://www.cogsec-collab.org/tags/cyber-security/</link>
     </image>
     
     <item>
       <title>The MisinfoSec Framework Takes Shape</title>
-      <link>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</link>
+      <link>https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</guid>
+      <guid>https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</guid>
       <description>&lt;h2 id=&#34;developing-the-amitt-adversarial-misinformation-and-influence-tactics-and-techniques-framework&#34;&gt;Developing the AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework&lt;/h2&gt;
 &lt;p&gt;By 
 &lt;a href=&#34;https://twitter.com/grayspective&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Gray&lt;/a&gt; and 
@@ -109,10 +109,10 @@ It’s equally important to help lead the effort to ensure that MisinfoSec (appl
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;897&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;897&#34;&gt;
 &lt;/a&gt;
 
 
@@ -172,10 +172,10 @@ Mapping the wall was a process of grouping identical techniques into stacks, and
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
 &lt;/a&gt;
 
 
@@ -208,10 +208,10 @@ Having established a model, we needed to test it. We spent just over an hour ado
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1402&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1402&#34;&gt;
 &lt;/a&gt;
 
 
@@ -256,10 +256,10 @@ Having established a model, we needed to test it. We spent just over an hour ado
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1145&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1145&#34;&gt;
 &lt;/a&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognitive Security | CogSec Collaborative</title>
-    <link>https://cogsec-collab.org/tags/cognitive-security/</link>
-      <atom:link href="https://cogsec-collab.org/tags/cognitive-security/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cogsec-collab.org/tags/cognitive-security/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/cognitive-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Security</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Cognitive Security</title>
-      <link>https://cogsec-collab.org/tags/cognitive-security/</link>
+      <link>https://www.cogsec-collab.org/tags/cognitive-security/</link>
     </image>
     
     <item>
       <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://cogsec-collab.org/talk/2020_bsides_vancouver/</link>
+      <link>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
+      <guid>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.org/slides/2020_cansecwest/</link>
+      <link>https://www.cogsec-collab.org/slides/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/slides/2020_cansecwest/</guid>
+      <guid>https://www.cogsec-collab.org/slides/2020_cansecwest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;slides/Slide1.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;img src=&#34;slides/Slide2.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://cogsec-collab.org/talk/2020_cansecwest/</link>
+      <link>https://www.cogsec-collab.org/talk/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/talk/2020_cansecwest/</guid>
+      <guid>https://www.cogsec-collab.org/talk/2020_cansecwest/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -144,9 +144,9 @@
     
     <item>
       <title>The MisinfosecWG Counters Workshop</title>
-      <link>https://cogsec-collab.org/post/misinfosecwg-counters/</link>
+      <link>https://www.cogsec-collab.org/post/misinfosecwg-counters/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/post/misinfosecwg-counters/</guid>
+      <guid>https://www.cogsec-collab.org/post/misinfosecwg-counters/</guid>
       <description>&lt;h2 id=&#34;the-misinfosec-working-group&#34;&gt;The Misinfosec Working Group&lt;/h2&gt;
 
 
@@ -169,10 +169,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;MisinfosecWG timeline. We built infosec-based standards for describing and sharing information about disinformation incidents&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;MisinfosecWG timeline. We built infosec-based standards for describing and sharing information about disinformation incidents&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;840&#34; height=&#34;436&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec1_hu75ed1ec14814cd4cad3be534472fd0e7_233215_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;840&#34; height=&#34;436&#34;&gt;
 &lt;/a&gt;
 
 
@@ -210,10 +210,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A STIX diagram for a disinformation incident. The workshop was about creating more of the green box on the right (courses of action to counter incidents, techniques, tactics etc)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A STIX diagram for a disinformation incident. The workshop was about creating more of the green box on the right (courses of action to counter incidents, techniques, tactics etc)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;896&#34; height=&#34;589&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec2_hu56ca49df1032328068b0c44ed177dd9f_228657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;896&#34; height=&#34;589&#34;&gt;
 &lt;/a&gt;
 
 
@@ -268,10 +268,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;AMITT Tactics and Techniques — see https://github.com/misinfosecproject/amitt_framework&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;AMITT Tactics and Techniques — see https://github.com/misinfosecproject/amitt_framework&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec3_hu5c8d536cbadde37be653e4204eeed0a7_130142_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -306,10 +306,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Courses of Action grid for AMITT tactics&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Courses of Action grid for AMITT tactics&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;731&#34; height=&#34;377&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec4_huee445b559b3fcd8cb4517854cfc4d6fd_32595_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;731&#34; height=&#34;377&#34;&gt;
 &lt;/a&gt;
 
 
@@ -354,10 +354,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;SANS scale for counters&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;SANS scale for counters&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;789&#34; height=&#34;358&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec5_hub204b382a852c12763076b8144dd708e_79317_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;789&#34; height=&#34;358&#34;&gt;
 &lt;/a&gt;
 
 
@@ -393,10 +393,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Courses of Action starting to fill up. Note the blank boxes in it, where we might need more work&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Courses of Action starting to fill up. Note the blank boxes in it, where we might need more work&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec6_hu9f4e76bcf8570a1e7d291a08644122e1_193266_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
 &lt;/a&gt;
 
 
@@ -432,10 +432,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Course of Action box for “Detect” on tactic “Develop Content”&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Course of Action box for “Detect” on tactic “Develop Content”&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec7_huce7da389b299a9c23990551586ffe07c_284344_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
 &lt;/a&gt;
 
 
@@ -471,10 +471,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;ISACs — just some of the bodies connected to the Cognitive Security ISAO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;ISACs — just some of the bodies connected to the Cognitive Security ISAO&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;568&#34; height=&#34;352&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec8_hud30bd7d8c682bb32aba07ac298a9925a_99661_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;568&#34; height=&#34;352&#34;&gt;
 &lt;/a&gt;
 
 
@@ -510,10 +510,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Counters organised by metatag — see https://github.com/misinfosecproject/amitt_counters&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Counters organised by metatag — see https://github.com/misinfosecproject/amitt_counters&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1854&#34; height=&#34;1448&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-counters/misinfosec9_hu9187501edcb887bf1c21223226b1c90e_134066_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1854&#34; height=&#34;1448&#34;&gt;
 &lt;/a&gt;
 
 
@@ -535,9 +535,9 @@
     
     <item>
       <title>The MisinfoSec Framework Takes Shape</title>
-      <link>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</link>
+      <link>https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</guid>
+      <guid>https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/</guid>
       <description>&lt;h2 id=&#34;developing-the-amitt-adversarial-misinformation-and-influence-tactics-and-techniques-framework&#34;&gt;Developing the AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework&lt;/h2&gt;
 &lt;p&gt;By 
 &lt;a href=&#34;https://twitter.com/grayspective&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Gray&lt;/a&gt; and 
@@ -630,10 +630,10 @@ It’s equally important to help lead the effort to ensure that MisinfoSec (appl
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;897&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec1_hufbe71ff2bfa72833c08d95b72d88d639_226169_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;897&#34;&gt;
 &lt;/a&gt;
 
 
@@ -693,10 +693,10 @@ Mapping the wall was a process of grouping identical techniques into stacks, and
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec2_hu48192afc48c725dd07ea8148fbd9f681_188062_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;900&#34;&gt;
 &lt;/a&gt;
 
 
@@ -729,10 +729,10 @@ Having established a model, we needed to test it. We spent just over an hour ado
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1402&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec3_hue35e23061a68ce2bd83892e689d8b7a6_308861_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1402&#34;&gt;
 &lt;/a&gt;
 
 
@@ -777,10 +777,10 @@ Having established a model, we needed to test it. We spent just over an hour ado
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1145&#34;&gt;
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/misinfosecwg-framework-takes-shape/misinfosec4_hu4de1059576c90fac47d090c92a34721b_381552_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;900&#34; height=&#34;1145&#34;&gt;
 &lt;/a&gt;
 
 
