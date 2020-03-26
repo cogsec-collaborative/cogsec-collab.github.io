@@ -68,6 +68,154 @@
     </item>
     
     <item>
+      <title>Cogsec Collab MISP Community</title>
+      <link>https://www.cogsec-collab.org/post/cogsec-misp-community/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/post/cogsec-misp-community/</guid>
+      <description>&lt;h2 id=&#34;a-community-dedicated-to-information-operations&#34;&gt;A community dedicated to information operations&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;re proud to announce the CogSec Collab MISP Community - the first public MISP sharing group dedicated to misinformation and information campaigns.&lt;/p&gt;
+&lt;p&gt;Our community seeks to connect misinformation researchers and responders  by providing tools to streamline investigation and reporting on  disinformation and information campaigns.  By making our MISP instance available to the community we&amp;rsquo;re enabling researchers to generate and share information operations data in MISP JSON or STIX format at just a click of a drop-down menu.&lt;/p&gt;
+&lt;p&gt;We look forward to working with our partners to provide access to disinformation documentation and sharing standards, indicators, countermeasures and playbooks.&lt;/p&gt;
+&lt;p&gt;Send us an email to request access.&lt;/p&gt;
+&lt;h2 id=&#34;misp&#34;&gt;MISP&lt;/h2&gt;
+&lt;p&gt;The MISP Project started out as a way to share malware indicators.  It&amp;rsquo;s grown to include much more - financial fraud, climate data and most recently COVID-19 cases.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We have a dedicated MISP to share information about &lt;a href=&#34;https://twitter.com/hashtag/COVID2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#COVID2019&lt;/a&gt; &lt;a href=&#34;https://t.co/64bWDpZAKr&#34;&gt;https://t.co/64bWDpZAKr&lt;/a&gt; - If you want access DM us on Twitter. &lt;a href=&#34;https://t.co/8KuykC3XE0&#34;&gt;pic.twitter.com/8KuykC3XE0&lt;/a&gt;&lt;/p&gt;&amp;mdash; MISP (@MISPProject) &lt;a href=&#34;https://twitter.com/MISPProject/status/1239864641993551873?ref_src=twsrc%5Etfw&#34;&gt;March 17, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;At its core MISP is an automated correlation engine.  It assists analysts in finding interesting relationships between indicators and contextualising the data. For Cogsec Collab, it&amp;rsquo;s a means to provide structured threat intelligence to cross-sector partners with highly diverse requirements.&lt;/p&gt;
+&lt;h2 id=&#34;amtt-misinformation-pattern-galaxy&#34;&gt;AM!TT Misinformation Pattern Galaxy&lt;/h2&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/galaxy_list_hu2dbb63b19e88e7c410a1d20e6ac2c179_164943_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Descriptions of AMITT Techniques in the MISP Misinformation Pattern Galaxy.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/galaxy_list_hu2dbb63b19e88e7c410a1d20e6ac2c179_164943_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1409&#34; height=&#34;1034&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Descriptions of AMITT Techniques in the MISP Misinformation Pattern Galaxy.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Our first achievement  was the integration of the 
+&lt;a href=&#34;https://github.com/misinfosecproject/amitt_framework&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AM!TT Framework&lt;/a&gt; as a 
+&lt;a href=&#34;https://www.misp-project.org/galaxy.html#_misinformation_pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MISP Galaxy&lt;/a&gt;.  It contains the tags and definitions needed for describing the misinformation tactics and techniques present in a specific information operation.&lt;/p&gt;
+&lt;h2 id=&#34;amtt-navigatord&#34;&gt;AM!TT Navigatord&lt;/h2&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/amitt_hubdc8e6b1c15d4bf18fbc9d921a0e6520_204170_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The MISP Project kindly developed this built-in technique navigator.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/amitt_hubdc8e6b1c15d4bf18fbc9d921a0e6520_204170_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2006&#34; height=&#34;1012&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The MISP Project kindly developed this built-in technique navigator.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Applying the AM!TT galaxy information to an event must be easy in order to encourage use by already overburdened information researchers.  The MISP Project developers kindly created an inline AM!TT Navigator to respond to this need for conveniently tagging events with AM!TT techniques.&lt;/p&gt;
+&lt;p&gt;With this tool, analysts can simply click on the relevant techniques found in a report or sighting to include that information in the misinformation event data.&lt;/p&gt;
+&lt;h2 id=&#34;dfrlab-dichotomies-of-disinformation&#34;&gt;DFRLab Dichotomies of Disinformation&lt;/h2&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/dfrlab_huc1a7678efde9b01802178e4c130b4025_137500_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Atlantic Council&amp;rsquo;s DFRLab Dichotomies of Disinformation&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.cogsec-collab.org/post/cogsec-misp-community/dfrlab_huc1a7678efde9b01802178e4c130b4025_137500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1976&#34; height=&#34;726&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Atlantic Council&amp;rsquo;s DFRLab Dichotomies of Disinformation
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Also included in the CogSec Collab MISP is 
+&lt;a href=&#34;https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atlantic Council&amp;rsquo;s DFRLab&lt;/a&gt; 
+&lt;a href=&#34;https://github.com/DFRLab/Dichotomies-of-Disinformation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dichotomies of Disinformation&lt;/a&gt; which is a new standard for describing information campaigns that can be used alone or in complement to the AM!TT framework.&lt;/p&gt;
+&lt;p&gt;The work of the DFRLab is included in MISP as a Taxonomy - a set of machine tags for describing indicators and events.&lt;/p&gt;
+&lt;h2 id=&#34;future-work&#34;&gt;Future Work&lt;/h2&gt;
+&lt;p&gt;From this point our next steps are to  build elf communities and equip them with the tooling and  training needed to be effective.&lt;/p&gt;
+&lt;p&gt;MISP will play an important role in distributing misinformation threat data but it&amp;rsquo;s just a tool; it&amp;rsquo;s the people who make the community of users that can make it great.  If you work in the disinformation space, please reach out.  Come talk to us.&lt;/p&gt;
+&lt;p&gt;As things develop we&amp;rsquo;ll have more to say about our disinformation sharing community.  For now we&amp;rsquo;d like to thank the 
+&lt;a href=&#34;https://twitter.com/MISPProject&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MISP Project&lt;/a&gt; developers for their excellent work and commitment to FOSS threat intelligence tooling.&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tools and Techniques for Cognitive Security</title>
       <link>https://www.cogsec-collab.org/slides/2020_cansecwest/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>

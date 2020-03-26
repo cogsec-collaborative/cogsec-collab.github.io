@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CogSec Collaborative</title>
-    <link>https://www.cogsec-collab.org/authors/vvx7/</link>
-      <atom:link href="https://www.cogsec-collab.org/authors/vvx7/index.xml" rel="self" type="application/rss+xml" />
-    <description>CogSec Collaborative</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <title>Threat Intelligence | CogSec Collaborative</title>
+    <link>https://www.cogsec-collab.org/tags/threat-intelligence/</link>
+      <atom:link href="https://www.cogsec-collab.org/tags/threat-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Threat Intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>CogSec Collaborative</title>
-      <link>https://www.cogsec-collab.org/authors/vvx7/</link>
+      <title>Threat Intelligence</title>
+      <link>https://www.cogsec-collab.org/tags/threat-intelligence/</link>
     </image>
-    
-    <item>
-      <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Cogsec Collab MISP Community</title>
@@ -170,132 +157,6 @@
 &lt;p&gt;As things develop we&amp;rsquo;ll have more to say about our disinformation sharing community.  For now we&amp;rsquo;d like to thank the 
 &lt;a href=&#34;https://twitter.com/MISPProject&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MISP Project&lt;/a&gt; developers for their excellent work and commitment to FOSS threat intelligence tooling.&lt;/p&gt;
 &lt;p&gt;Thank you!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://www.cogsec-collab.org/slides/2020_cansecwest/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/slides/2020_cansecwest/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;slides/Slide1.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide2.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide3.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide4.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide5.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide6.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide7.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide8.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide9.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide10.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide11.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide12.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide13.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide14.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide15.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide16.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide17.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide18.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide19.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide20.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide21.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide22.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide23.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide24.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide25.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide26.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide27.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide28.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide29.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide30.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide31.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide32.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide33.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide34.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide35.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide36.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide37.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide38.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide39.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide40.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide41.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide42.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide43.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide44.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide45.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide46.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide47.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;slides/Slide48.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tools and Techniques for Cognitive Security</title>
-      <link>https://www.cogsec-collab.org/talk/2020_cansecwest/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/talk/2020_cansecwest/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AM!TT Navigator</title>
-      <link>https://www.cogsec-collab.org/project/amitt_navigator/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/project/amitt_navigator/</guid>
-      <description>&lt;iframe src=&#34;https://vvx7.github.io/amitt-navigator/amitt/&#34; width=&#34;100%&#34; height=&#34;1000px&#34;&gt;&lt;/iframe&gt; 
 </description>
     </item>
     
