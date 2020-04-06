@@ -33,6 +33,7 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/grugq/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -81,22 +82,27 @@
   </url>
   
   <url>
+    <loc>https://www.cogsec-collab.org/tags/information-operations/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/post/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/post/new-old-power-projections/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cogsec-collab.org/post/cogsec-misp-community/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cogsec-collab.org/tags/information-operations/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cogsec-collab.org/tags/misp/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/post/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -187,26 +193,6 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/contact/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/posts/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/projects/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/publications/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
