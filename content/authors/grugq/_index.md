@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Minister without Portfolio
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Information Security Researcher
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Cyber
+#- Information Warfare
+#- Counterintelligence
 
 #education:
 #  courses:
@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Grugq is a pioneering information security researcher with two decades of experience. He has worked extensively with threat intelligence, digital forensic analysis, binary reverse engineering, rootkits, mobile phone security, Voice over IP, telecommunications and financial services security. The Grugq’s professional career has included Fortune 100 companies, leading information security firms and innovative start-ups.

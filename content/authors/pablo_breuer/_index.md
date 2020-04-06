@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: VP
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pablo Breuer is currently the military director of US Special Operations Command Donovan Group and senior military advisor and innovation officer to SOFWERX. He’s served at the National Security Agency and U.S. Cyber Command as well as being the Director of C4 at U.S. Naval Forces Central Command. He is a DoD Cyber Cup and Defcon Black Badge winner, and has been adjunct faculty at National University, California State University Monterey Bay, and a Visiting Scientist at Carnegie Mellon CERT/SEI. He has taught classes for various U.S. government agencies and industry on topics ranging from malware reverse engineering and exploit development to cyber policy and authorities. Pablo is also a founder and board member of The Diana Initiative, an InfoSec event focused on advancing the careers of women in cyber security, and is on the staff for BSides Las Vegas and CircleCityCon. Pablo holds degrees in computer science and is a PhD candidate in information science.

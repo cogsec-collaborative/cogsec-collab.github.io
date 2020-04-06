@@ -21,10 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Data nerd, specializing in complex business and social problems.
 
-interests:
-- Artificial Intelligence
-- Autonomous Systems
-- Cognitive Security
+#interests:
+#- Artificial Intelligence
+#- Autonomous Systems
+#- Cognitive Security
 
 education:
   courses:

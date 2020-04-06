@@ -21,10 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a security engineer by day, and a wrangler and herder of hackers by night. 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:

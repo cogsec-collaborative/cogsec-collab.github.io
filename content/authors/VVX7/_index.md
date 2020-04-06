@@ -21,10 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Feeling cute might influence later idk
 
-interests:
-- Adversary Emulation
-- Information Warfare
-- Threat Intelligence
+#interests:
+#- Adversary Emulation
+#- Information Warfare
+#- Threat Intelligence
 
 
 
