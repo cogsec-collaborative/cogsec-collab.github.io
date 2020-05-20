@@ -1,6 +1,6 @@
 ---
 title: Tools and Techniques for Cognitive Security
-summary: An introduction to using Academic's Slides feature.
+summary: Status update on the state of counter disinformation playbooks.
 authors: ["sj_terp", "VVX7"]
 tags: ["AMITT", "Cognitive Security", "Disinformation"]
 categories: []
