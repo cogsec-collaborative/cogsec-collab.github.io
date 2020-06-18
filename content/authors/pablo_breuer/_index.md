@@ -29,6 +29,9 @@ bio: Research interests include computational complexity, misinformation, advanc
 
 education:
   courses:
+  - course: PhD in Information Science
+    institution: Naval Postgraduate School
+    year: 2020
   - course: JPME, Joint Operations, National Strategy and Decision Making, Strategy and Policy
     institution: U.S. Naval War College
     year: 2008
