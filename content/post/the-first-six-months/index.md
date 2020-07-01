@@ -1,7 +1,7 @@
 ---
-title: The Cognitive Security Collaborative: The First 6 Months
+title: 'The Cognitive Security Collaborative: The First 6 Months'
 subtitle: Community, Deployments, Tools and what's next
-# summary: foo
+summary: In 2019, the Misinfosec Slack group and Misinfosec Standards Working Group created bridges between the information operations, information security, data science and disinformation communities.
 authors:
 - sj_terp
 date: 2020-06-30
@@ -13,21 +13,7 @@ categories: []
 image:
   placement: 3
   caption: 'Courses of Action wall — this visually anchored the workshop'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+---
 
 ## The Cognitive Security Collaborative: The First 6 Months
 
