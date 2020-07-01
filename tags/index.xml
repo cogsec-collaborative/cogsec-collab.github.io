@@ -37,18 +37,26 @@
     </item>
     
     <item>
-      <title>Counter Violent Extremism</title>
-      <link>https://www.cogsec-collab.org/tags/counter-violent-extremism/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/tags/counter-violent-extremism/</guid>
+      <title>Cyber Security</title>
+      <link>https://www.cogsec-collab.org/tags/cyber-security/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/tags/cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Operations</title>
       <link>https://www.cogsec-collab.org/tags/information-operations/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://www.cogsec-collab.org/tags/information-operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counter Violent Extremism</title>
+      <link>https://www.cogsec-collab.org/tags/counter-violent-extremism/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/tags/counter-violent-extremism/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://www.cogsec-collab.org/tags/misinfosec/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cogsec-collab.org/tags/misinfosec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyber Security</title>
-      <link>https://www.cogsec-collab.org/tags/cyber-security/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/tags/cyber-security/</guid>
       <description></description>
     </item>
     
