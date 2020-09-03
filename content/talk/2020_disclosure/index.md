@@ -1,29 +1,22 @@
 ---
-title: AM!TT - Toward Adversarial Misinformation Playbooks
-event: BSides Vancouver 2020
-event_url: https://www.bsidesvancouver.com/
+title: Disinformation - Threat Intelligence and Creating a Distributed Response
+event: Disclosure 2020
+event_url: https://www.disclosureconference.com
 
-location: SFU Harbour Centre
-address:
-  street: 515 W Hastings Street
-  city: Vancouver
-  region: BC
-  postcode: 'V6B 5K3'
-  country: Canada
 
-summary: Status update on the state of counter disinformation playbooks.
-abstract: "In this talk, we explore the tactic- and technique-level disinformation mitigations and counters that become possible when you think about disinformation incidents as a structured information security problem.<br><br>This talk focuses on the implementation and practical application of counter-disinformation playbooks."
+summary: This talk is about how we set up and ran a real-time disinformation threat intelligence team inside a larger information security response - The CTI-League.
+abstract: "With companies providing disinformation as a service (DaaS) and the US election coming up in November, we need to prepare our disinformation defences now more than ever. This talk is about how we set up and ran a real-time disinformation threat intelligence team inside a larger information security response - The CTI-League. It includes tools, processes, data science support and how to keep the team sane whilst reading dangerous materials."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-27"
-date_end: "2020-09-29"
+date: "2020-09-02"
+date_end: "2020-09-02"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-01-01T00:00:00Z"
 
-authors: ["VVX7", "sj_terp"]
-tags: ["AMITT", "Cognitive Security", "Disinformation"]
+authors: ["sj_terp", "pablo_breuer"]
+tags: ["AMITT", "Cognitive Security", "Disinformation", "CTI League"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -36,11 +29,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/VV_X_7
+  url: https://twitter.com/bodaceacat
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/VV_X_7
+  url: https://twitter.com/Ngree_H0bit
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -51,7 +44,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: 2020_disclosure
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,8 +52,7 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- AMITT_Counters
-- AMITT_Framework
+- 
 
 # Enable math on this page?
 math: true
