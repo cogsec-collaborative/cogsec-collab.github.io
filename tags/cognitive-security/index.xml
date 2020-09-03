@@ -5,7 +5,7 @@
     <link>https://www.cogsec-collab.org/tags/cognitive-security/</link>
       <atom:link href="https://www.cogsec-collab.org/tags/cognitive-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Security</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Cognitive Security</title>
@@ -13,10 +13,98 @@
     </image>
     
     <item>
-      <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
+      <title>Disinformation - Threat Intelligence and Creating a Distributed Response</title>
+      <link>https://www.cogsec-collab.org/slides/2020_disclosure/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/slides/2020_disclosure/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;slides/Slide1.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide2.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide3.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide4.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide5.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide6.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide7.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide8.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide9.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide10.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide11.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide12.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide13.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide14.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide15.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide16.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide17.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide18.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide19.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide20.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide21.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide22.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide23.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide24.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide25.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide26.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide27.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide28.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide29.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide30.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide31.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide32.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide33.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide34.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide35.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide36.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide37.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide38.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide39.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;slides/Slide40.PNG&#34; alt=&#34;Image of Yaktocat&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disinformation - Threat Intelligence and Creating a Distributed Response</title>
+      <link>https://www.cogsec-collab.org/talk/2020_disclosure/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/talk/2020_disclosure/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

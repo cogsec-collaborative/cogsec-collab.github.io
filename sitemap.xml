@@ -19,12 +19,12 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/sj_terp/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/pablo_breuer/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,47 +38,57 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/vvx7/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/tags/amitt/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/tags/cognitive-security/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cogsec-collab.org/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <loc>https://www.cogsec-collab.org/tags/cti-league/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/tags/disinformation/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/slides/2020_disclosure/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/talk/2020_disclosure/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/talk/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/slides/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/tags/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,11 +128,6 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/slides/2020_eu_attack/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/slides/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -227,8 +232,18 @@
   </url>
   
   <url>
+    <loc>https://www.cogsec-collab.org/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cogsec-collab.org/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -242,10 +257,6 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/courses/</loc>
   </url>
   
 </urlset>

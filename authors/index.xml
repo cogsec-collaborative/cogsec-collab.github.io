@@ -5,75 +5,12 @@
     <link>https://www.cogsec-collab.org/authors/</link>
       <atom:link href="https://www.cogsec-collab.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://www.cogsec-collab.org/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/sj_terp/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/sj_terp/</guid>
-      <description>&lt;p&gt;SJ builds frameworks to improve how autonomous systems and human communities work together. Fusing her work as a data scientist and information security expert, she is examining the light and dark sides of the human-AI interface: building algorithms that enable autonomous systems to accelerate the creation of shared situational awareness in crises; and applying information security principles to counter the impact of misinformation and disinformation campaigns on human systems.&lt;/p&gt;
-&lt;p&gt;She runs Bodacea Light Industries, is a senior advisor at the Atlantic Council, and chairs the Cognitive Security CoLab. Previously she has taught data science at Columbia University, served as CTO of UN Global Pulse (the UN’s big data initiative), and designed machine learning algorithms and unmanned vehicle systems at the UK Ministry of Defence. SJ holds degrees in AI and neural networks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/pablo_breuer/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/pablo_breuer/</guid>
-      <description>&lt;p&gt;Dr. Pablo Breuer is currently a Principal Director for Applied Cyber Intelligence at Accenture Federal Services.  He is a 22 year veteran of the U.S. Navy.  Some tours of interest include:  military director of US Special Operations Command Donovan Group and senior military advisor and innovation officer to SOFWERX, the National Security Agency, and U.S. Cyber Command as well as being the Director of C4 at U.S. Naval Forces Central Command. He is a DoD Cyber Cup and Defcon Black Badge winner, and has been faculty at the Naval Postgraduate School, National University, California State University Monterey Bay, as well as a Visiting Scientist at Carnegie Mellon CERT/SEI. He has taught classes for various U.S. government agencies and industry on topics ranging from malware reverse engineering and exploit development to cyber policy and authorities. Pablo is also a co-founder and board member of The Diana Initiative and is on the staff for BSides Las Vegas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/grant_dobbe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/grant_dobbe/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m just this guy, you know?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/grugq/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/grugq/</guid>
-      <description>&lt;p&gt;The Grugq is a pioneering information security researcher with two decades of experience. He has worked extensively with threat intelligence, digital forensic analysis, binary reverse engineering, rootkits, mobile phone security, Voice over IP, telecommunications and financial services security. The Grugq’s professional career has included Fortune 100 companies, leading information security firms and innovative start-ups.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/vvx7/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/vvx7/</guid>
-      <description>&lt;p&gt;I do infosec things and sometimes I do misinfosec things too.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CogSecCollab</title>
-      <link>https://www.cogsec-collab.org/authors/cogseccollab/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/cogseccollab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.cogsec-collab.org/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/authors/admin/</guid>
-      <description>&lt;p&gt;The Cognitive Security Collaborative&amp;rsquo;s mission is to bring together information security researchers, data scientists, and other subject-matter experts in order to create and improve resources for the protection and defense of the cognitive domain.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

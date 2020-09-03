@@ -5,25 +5,12 @@
     <link>https://www.cogsec-collab.org/authors/vvx7/</link>
       <atom:link href="https://www.cogsec-collab.org/authors/vvx7/index.xml" rel="self" type="application/rss+xml" />
     <description>CogSec Collaborative</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020© Cognitive Security Collaborative</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CogSec Collaborative</title>
       <link>https://www.cogsec-collab.org/authors/vvx7/</link>
     </image>
-    
-    <item>
-      <title>AM!TT - Toward Adversarial Misinformation Playbooks</title>
-      <link>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cogsec-collab.org/talk/2020_bsides_vancouver/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>EU ATT&amp;CK - COVID-19 Disinformation Response</title>
