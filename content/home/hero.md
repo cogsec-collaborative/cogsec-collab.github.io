@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Join the Elves"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "amitt.png"
+hero_media = "cogsec-black.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,7 +37,7 @@ hero_media = "amitt.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/cogsec-collaborative/amitt_counters"
+  url = "https://cogsec-collab.org/#contact"
   label = "Get Started"
   icon_pack = "fas"
   icon = "crow"
@@ -48,9 +48,12 @@ hero_media = "amitt.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-#  label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative/amitt_counters" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
+label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative/amitt_counters" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
+
+#<span style="text-shadow: none;"><a class="github-button" href="https://github.com/cogsec-collaborative/amitt_counters" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
 +++
 
-**CogSec Collaborative helps communities counter disinformation.**
+**A nonprofit that helps specialists form teams to combat disinformation.**
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/cogsec-collaborative/amitt_counters" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
