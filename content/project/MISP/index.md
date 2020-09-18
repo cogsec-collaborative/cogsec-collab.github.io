@@ -10,7 +10,7 @@ tags:
 date: "2020-03-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.misp-project.org/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,4 +40,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<iframe src="https://vvx7.github.io/amitt-navigator/amitt/" width="100%" height="1000px"></iframe> 
