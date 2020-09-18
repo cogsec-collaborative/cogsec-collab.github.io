@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.cogsec-collab.org/authors/sj_terp/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -42,27 +42,52 @@
   </url>
   
   <url>
+    <loc>https://www.cogsec-collab.org/authors/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/tags/cognitive-security/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/tags/disinformation/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/post/distributed-defence-against-disinformation/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/tags/information-operations/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/tags/information-security/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/post/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/tags/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cogsec-collab.org/tags/amitt/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cogsec-collab.org/authors/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/tags/cognitive-security/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cogsec-collab.org/tags/cti-league/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/tags/disinformation/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -87,22 +112,7 @@
   </url>
   
   <url>
-    <loc>https://www.cogsec-collab.org/tags/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cogsec-collab.org/tags/cyber-security/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/tags/information-operations/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/post/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
