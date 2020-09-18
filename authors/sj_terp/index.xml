@@ -488,6 +488,14 @@ With MISP repurposed to store disinformation, we launched the first MISP disinfo
     </item>
     
     <item>
+      <title>MISP</title>
+      <link>https://www.cogsec-collab.org/project/misp/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/project/misp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The MisinfosecWG Counters Workshop</title>
       <link>https://www.cogsec-collab.org/post/misinfosecwg-counters/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
@@ -876,6 +884,14 @@ With MISP repurposed to store disinformation, we launched the first MISP disinfo
 &lt;a href=&#34;https://www.cogsec-collab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CogSec Collab&lt;/a&gt;, that’s concentrating on supporting disinformation volunteer groups and individuals.&lt;/p&gt;
 &lt;p&gt;We’re still organising the counters. We have them tagged with tactic, techniques, groups who could be write up in our responses. We grouped by ‘metatags’: tags for similar activities, til we realised that that was a proxy for a top-down activity and started describing that instead. We have two reports in the works: one on how we found and organised counters, and another on the counters themselves. Roger and Eric are busy adapting ATT&amp;amp;CK technologies to carry the AMITT responses and playbook entries that we’re building. It’s going to take us a little while, but we’re still slowly moving forwards with misinfosec.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>AM!TT Framework</title>
+      <link>https://www.cogsec-collab.org/project/amitt_framework/</link>
+      <pubDate>Tue, 11 Feb 2020 13:56:48 -0500</pubDate>
+      <guid>https://www.cogsec-collab.org/project/amitt_framework/</guid>
+      <description></description>
     </item>
     
     <item>

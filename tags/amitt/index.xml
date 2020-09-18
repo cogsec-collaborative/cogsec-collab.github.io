@@ -369,7 +369,15 @@
     </item>
     
     <item>
-      <title>AM!TT Counters</title>
+      <title>MISP</title>
+      <link>https://www.cogsec-collab.org/project/misp/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cogsec-collab.org/project/misp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AM!TT Countermeasures</title>
       <link>https://www.cogsec-collab.org/project/amitt_counters/</link>
       <pubDate>Wed, 12 Feb 2020 13:56:48 -0500</pubDate>
       <guid>https://www.cogsec-collab.org/project/amitt_counters/</guid>

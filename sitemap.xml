@@ -177,17 +177,22 @@
   </url>
   
   <url>
+    <loc>https://www.cogsec-collab.org/project/misp/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cogsec-collab.org/project/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cogsec-collab.org/post/misinfosecwg-counters/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.cogsec-collab.org/project/amitt_counters/</loc>
-    <lastmod>2020-02-12T13:56:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cogsec-collab.org/project/</loc>
     <lastmod>2020-02-12T13:56:48-05:00</lastmod>
   </url>
   
