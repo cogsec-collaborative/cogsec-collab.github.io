@@ -1,6 +1,6 @@
 ---
 title: AM!TT Navigator
-summary: Based on the MITRE ATT&CK&copy; Navigator.
+summary: "A web application for the AM!TT Framework built on the MITRE ATT&CK&copy; Navigator."
 authors:
 - VVX7
 tags:

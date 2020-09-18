@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "AM!TT Framework"
-summary: "AM!TT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents. AMITT is part of misinfosec - work on adapting information security practices to help track and counter misinformation - and is designed as far as possible to fit existing infosec practices and tools."
+
+summary: "AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents.
+Disinformation campaigns have commonly used processes and techniques. We can organize these techniques into tactical stages - a chronology of events called a kill chain."
 authors: ["sj_terp", "pablo_breuer"]
 tags: 
 - AMITT

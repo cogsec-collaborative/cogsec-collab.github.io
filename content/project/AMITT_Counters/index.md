@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AM!TT Counters"
-summary: "Countermeasures for AMITT tactics and techniques (and some general counters too)"
+title: "AM!TT Countermeasures"
+summary: "A series of Tactics, Techniques and Procedures (TTPs)  that are matched to the AMITT stages and techniques."
 authors: []
 tags: 
 - AMITT
