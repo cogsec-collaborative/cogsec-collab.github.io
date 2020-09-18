@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "cogsec-black.png"
+hero_media = "cogsec-white.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = "cogsec-black.png"
   gradient_end = "#4bb4e3"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
+  #image = "lorenzo-herrera.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -40,7 +40,7 @@ hero_media = "cogsec-black.png"
   url = "https://cogsec-collab.org/#contact"
   label = "Get Started"
   icon_pack = "fas"
-  icon = "crow"
+  #icon = "crow"
   
 #[cta_alt]
 #  url = "https://github.com/cogsec-collaborative"
@@ -48,7 +48,7 @@ hero_media = "cogsec-black.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative/amitt_counters" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
+#label = '<a class="js-github-release" href="https://github.com/cogsec-collaborative/amitt_counters" data-repo="cogsec-collaborative/cogsec-collab.github.io">Latest release<!-- V --></a>'
 
 #<span style="text-shadow: none;"><a class="github-button" href="https://github.com/cogsec-collaborative/amitt_counters" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
