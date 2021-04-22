@@ -13,7 +13,7 @@ categories: []
 date: 2020-02-11T13:56:48-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/misinfosecproject/amitt_framework"
+external_link: "https://github.com/cogsec-collaborative/AMITT"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

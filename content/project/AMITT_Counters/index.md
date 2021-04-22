@@ -11,7 +11,7 @@ categories: []
 date: 2020-02-12T13:56:48-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/misinfosecproject/amitt_counters"
+external_link: "https://github.com/cogsec-collaborative/AMITT/blob/main/amitt_blue_framework.md"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
