@@ -821,7 +821,7 @@ With MISP repurposed to store disinformation, we launched the first MISP disinfo
 &lt;/figure&gt;
 
 &lt;p&gt;Our first achievement  was the integration of the 
-&lt;a href=&#34;https://github.com/misinfosecproject/amitt_framework&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AM!TT Framework&lt;/a&gt; as a 
+&lt;a href=&#34;https://github.com/cogsec-collaborative/AMITT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AM!TT Framework&lt;/a&gt; as a 
 &lt;a href=&#34;https://www.misp-project.org/galaxy.html#_misinformation_pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MISP Galaxy&lt;/a&gt;.  It contains the tags and definitions needed for describing the misinformation tactics and techniques present in a specific information operation.&lt;/p&gt;
 &lt;h2 id=&#34;amtt-navigatord&#34;&gt;AM!TT Navigatord&lt;/h2&gt;
 
