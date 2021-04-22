@@ -34,7 +34,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: publication/standards_for_misinfosec/MisinfosecWG-2019-1.pdf
+url_pdf: files/MisinfosecWG-2019-1.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
